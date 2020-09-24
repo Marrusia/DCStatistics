@@ -8,43 +8,24 @@ type TacviewDebriefing = XmlProvider<"../tacview_export/Tacview-20190204-202000-
 
 let path = @"./tacview_export/"
 
-let files =
-    Directory.GetFiles(path, "*.xml") |> Array.toSeq
+let files = Directory.GetFiles(path, "*.xml")
 
 let dataSet file = File.ReadAllText(file)
 
-let data =
+let missionData =
     files
-    |> Seq.map (fun file -> dataSet file)
-    |> Seq.map (fun value -> TacviewDebriefing.Parse(value))
-
-let eventList =
-    (data
-     |> Seq.map (fun d -> (d.Events |> Array.toList)))
-
-let getEventsFromData (list: list<list<'T>>) =
-    let rec getEvents (list: list<list<'T>>) acc =
-        match list with
-        | head :: tail ->
-            let acc = acc @ head
-            getEvents tail acc
-        | [] -> acc
-
-    getEvents list []
-
-let events =
-    getEventsFromData (eventList |> Seq.toList)
-
-let actions =
-    events
-    |> List.map (fun event -> event.Action)
-    |> List.distinct
+    |> Array.map (fun file -> dataSet file)
+    |> Array.map (fun value -> TacviewDebriefing.Parse(value))
 
 let stats action =
-    events
-    |> List.filter (fun event -> event.Action = action)
-    |> List.groupBy (fun event -> event.PrimaryObject.Pilot)
-    |> List.map (fun (pilot, actions) ->
-        let name = pilot
-        let count = actions |> List.length
-        name, count)
+    missionData
+    |> Array.map (fun mission ->
+        (mission.Mission.Title,
+         (mission.Events
+          |> Array.filter (fun event -> event.Action = action)
+          |> Array.groupBy (fun event -> event.PrimaryObject.Pilot)
+          |> Array.filter (fun (pilot, actions) -> Option.isSome pilot)
+          |> Array.map (fun (pilot, actions) ->
+              let name = pilot
+              let count = actions |> Array.length
+              name, count))))
