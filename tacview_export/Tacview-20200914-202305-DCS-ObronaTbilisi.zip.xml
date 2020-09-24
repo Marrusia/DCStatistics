@@ -1,0 +1,6748 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<TacviewDebriefing Version="1.2.6">
+	<!--Flight Recording Properties-->
+	<FlightRecording>
+		<Source>DCS 2.5.6.54046</Source>
+		<Recorder>DCS2ACMI 1.8.2</Recorder>
+		<RecordingTime>2020-09-14T18:23:05.187Z</RecordingTime>
+		<Author>nielu</Author>
+	</FlightRecording>
+	<!--Mission Properties-->
+	<Mission>
+		<Title>ObronaTbilisi</Title>
+		<Category>Nothing</Category>
+		<MissionTime>2016-06-21T04:00:00Z</MissionTime>
+		<Duration>3774.30</Duration>
+	</Mission>
+	<!--Flight Log-->
+	<Events>
+		<Event>
+			<Time>235.90</Time>
+			<PrimaryObject ID="16">
+				<Type>Aircraft</Type>
+				<Name>L-39ZA Albatros</Name>
+				<Pilot>Aerial-2-1</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Aerial-2</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>298.08</Time>
+			<PrimaryObject ID="10">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>299.64</Time>
+			<PrimaryObject ID="156">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<Airport ID="ICAO:UGTB">
+				<Name>Tbilsi-Lochini</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>329.54</Time>
+			<PrimaryObject ID="12">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>Praleechka</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>336.76</Time>
+			<PrimaryObject ID="8">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>542.73</Time>
+			<PrimaryObject ID="7">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>543.86</Time>
+			<PrimaryObject ID="158">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<Airport ID="ICAO:UGTB">
+				<Name>Tbilsi-Lochini</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>811.94</Time>
+			<PrimaryObject ID="13">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>815.59</Time>
+			<PrimaryObject ID="156">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>817.54</Time>
+			<PrimaryObject ID="158">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>926.95</Time>
+			<PrimaryObject ID="14">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="170">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>14</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>942.29</Time>
+			<PrimaryObject ID="59">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="170">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>14</Parent>
+			</SecondaryObject>
+			<ParentObject ID="14">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>949.42</Time>
+			<PrimaryObject ID="14">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="172">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>14</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>962.20</Time>
+			<PrimaryObject ID="60">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="14">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>962.46</Time>
+			<PrimaryObject ID="60">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="172">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>14</Parent>
+			</SecondaryObject>
+			<ParentObject ID="14">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>974.36</Time>
+			<PrimaryObject ID="14">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="173">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>14</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>985.38</Time>
+			<PrimaryObject ID="59">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="14">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>985.43</Time>
+			<PrimaryObject ID="59">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="173">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>14</Parent>
+			</SecondaryObject>
+			<ParentObject ID="14">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1000.45</Time>
+			<PrimaryObject ID="156">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="174">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.X_25MP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>156</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1035.53</Time>
+			<PrimaryObject ID="156">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="193">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.X_25MP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>156</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1040.73</Time>
+			<PrimaryObject ID="38">
+				<Type>SAM/AAA</Type>
+				<Name>SA-8 Gecko</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 1</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="174">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.X_25MP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>156</Parent>
+			</SecondaryObject>
+			<ParentObject ID="156">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1040.77</Time>
+			<PrimaryObject ID="38">
+				<Type>SAM/AAA</Type>
+				<Name>SA-8 Gecko</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 1</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="156">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1045.75</Time>
+			<PrimaryObject ID="14">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="194">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>14</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1055.17</Time>
+			<PrimaryObject ID="68">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #011</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="194">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>14</Parent>
+			</SecondaryObject>
+			<ParentObject ID="14">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1055.19</Time>
+			<PrimaryObject ID="68">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #011</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="14">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1057.20</Time>
+			<PrimaryObject ID="37">
+				<Type>SAM/AAA</Type>
+				<Name>SA-8 Gecko</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 1</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="193">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.X_25MP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>156</Parent>
+			</SecondaryObject>
+			<ParentObject ID="156">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1059.24</Time>
+			<PrimaryObject ID="64">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #010</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="195">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.REFLEX</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>64</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1060.06</Time>
+			<PrimaryObject ID="156">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="196">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.X_25MP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>156</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1062.16</Time>
+			<PrimaryObject ID="14">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="197">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>14</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1062.23</Time>
+			<PrimaryObject ID="156">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="198">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.X_25MP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>156</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1070.95</Time>
+			<PrimaryObject ID="66">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #010</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="199">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.REFLEX</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>66</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1071.37</Time>
+			<PrimaryObject ID="63">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #010</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="14">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1071.48</Time>
+			<PrimaryObject ID="63">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #010</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="197">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>14</Parent>
+			</SecondaryObject>
+			<ParentObject ID="14">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1073.35</Time>
+			<PrimaryObject ID="14">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="195">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.REFLEX</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>64</Parent>
+			</SecondaryObject>
+			<ParentObject ID="64">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #010</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1077.48</Time>
+			<PrimaryObject ID="70">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #011</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="206">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.REFLEX</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>70</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1078.17</Time>
+			<PrimaryObject ID="199">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.REFLEX</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>66</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1078.67</Time>
+			<PrimaryObject ID="79">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Pilot>SAM 3 #002-2</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3 #002</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="196">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.X_25MP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>156</Parent>
+			</SecondaryObject>
+			<ParentObject ID="156">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1079.76</Time>
+			<PrimaryObject ID="79">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Pilot>SAM 3 #002-2</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3 #002</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="156">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1079.80</Time>
+			<PrimaryObject ID="79">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Pilot>SAM 3 #002-2</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3 #002</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="198">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.X_25MP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>156</Parent>
+			</SecondaryObject>
+			<ParentObject ID="156">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1091.30</Time>
+			<PrimaryObject ID="77">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3 #002</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="207">
+				<Type>Missile</Type>
+				<Name>9M330</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>77</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1091.63</Time>
+			<PrimaryObject ID="14">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="206">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.REFLEX</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>70</Parent>
+			</SecondaryObject>
+			<ParentObject ID="70">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #011</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1091.63</Time>
+			<PrimaryObject ID="14">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="70">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #011</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1094.27</Time>
+			<PrimaryObject ID="8">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="227">
+				<Type>Missile</Type>
+				<Name>R-60M (AA-8 Aphid-B)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>8</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1095.45</Time>
+			<PrimaryObject ID="77">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3 #002</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="228">
+				<Type>Missile</Type>
+				<Name>9M330</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>77</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1095.52</Time>
+			<PrimaryObject ID="78">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Pilot>SAM 3 #002-1</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3 #002</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="421">
+				<Type>Missile</Type>
+				<Name>9M330</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>78</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1097.41</Time>
+			<PrimaryObject ID="15">
+				<Type>Aircraft</Type>
+				<Name>CASA C-101CC</Name>
+				<Pilot>Aerial-1-3</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Aerial-1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1096">
+				<Type>Missile</Type>
+				<Name>AIM-9M Sidewinder</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>15</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1097.53</Time>
+			<PrimaryObject ID="1097">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>1097.62</Time>
+			<PrimaryObject ID="1097">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1097.70</Time>
+			<PrimaryObject ID="6">
+				<Type>Aircraft</Type>
+				<Name>CASA C-101CC</Name>
+				<Pilot>Aerial-1-1</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Aerial-1</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="227">
+				<Type>Missile</Type>
+				<Name>R-60M (AA-8 Aphid-B)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>8</Parent>
+			</SecondaryObject>
+			<ParentObject ID="8">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1102.33</Time>
+			<PrimaryObject ID="8">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="1096">
+				<Type>Missile</Type>
+				<Name>AIM-9M Sidewinder</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>15</Parent>
+			</SecondaryObject>
+			<ParentObject ID="15">
+				<Type>Aircraft</Type>
+				<Name>CASA C-101CC</Name>
+				<Pilot>Aerial-1-3</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Aerial-1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1102.33</Time>
+			<PrimaryObject ID="8">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="15">
+				<Type>Aircraft</Type>
+				<Name>CASA C-101CC</Name>
+				<Pilot>Aerial-1-3</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Aerial-1</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1105.36</Time>
+			<PrimaryObject ID="207">
+				<Type>Missile</Type>
+				<Name>9M330</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>77</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1109.49</Time>
+			<PrimaryObject ID="228">
+				<Type>Missile</Type>
+				<Name>9M330</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>77</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1117.57</Time>
+			<PrimaryObject ID="421">
+				<Type>Missile</Type>
+				<Name>9M330</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>78</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1122.52</Time>
+			<PrimaryObject ID="77">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3 #002</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1298">
+				<Type>Missile</Type>
+				<Name>9M330</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>77</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1125.61</Time>
+			<PrimaryObject ID="1331">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<SecondaryObject ID="5">
+				<Type>Airport</Type>
+				<Name>FARP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1137.75</Time>
+			<PrimaryObject ID="78">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Pilot>SAM 3 #002-1</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3 #002</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1332">
+				<Type>Missile</Type>
+				<Name>9M330</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>78</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1141.95</Time>
+			<PrimaryObject ID="145">
+				<Type>Aircraft</Type>
+				<Name>MQ-9 Reaper</Name>
+				<Pilot>Aerial-1-2</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>xu</Country>
+				<Group>Recce</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="1298">
+				<Type>Missile</Type>
+				<Name>9M330</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>77</Parent>
+			</SecondaryObject>
+			<ParentObject ID="77">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3 #002</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1141.95</Time>
+			<PrimaryObject ID="145">
+				<Type>Aircraft</Type>
+				<Name>MQ-9 Reaper</Name>
+				<Pilot>Aerial-1-2</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>xu</Country>
+				<Group>Recce</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="77">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3 #002</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1143.77</Time>
+			<PrimaryObject ID="1332">
+				<Type>Missile</Type>
+				<Name>9M330</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>78</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1158.33</Time>
+			<PrimaryObject ID="78">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Pilot>SAM 3 #002-1</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3 #002</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1397">
+				<Type>Missile</Type>
+				<Name>9M330</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>78</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1158.71</Time>
+			<PrimaryObject ID="1398">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>1161.47</Time>
+			<PrimaryObject ID="6">
+				<Type>Aircraft</Type>
+				<Name>CASA C-101CC</Name>
+				<Pilot>Aerial-1-1</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Aerial-1</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="8">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1171.72</Time>
+			<PrimaryObject ID="77">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3 #002</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1418">
+				<Type>Missile</Type>
+				<Name>9M330</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>77</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1175.53</Time>
+			<PrimaryObject ID="1397">
+				<Type>Missile</Type>
+				<Name>9M330</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>78</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1177.06</Time>
+			<PrimaryObject ID="77">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3 #002</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1431">
+				<Type>Missile</Type>
+				<Name>9M330</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>77</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1181.08</Time>
+			<PrimaryObject ID="12">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>Praleechka</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="1418">
+				<Type>Missile</Type>
+				<Name>9M330</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>77</Parent>
+			</SecondaryObject>
+			<ParentObject ID="77">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3 #002</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1181.08</Time>
+			<PrimaryObject ID="12">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>Praleechka</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="77">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3 #002</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1183.10</Time>
+			<PrimaryObject ID="1431">
+				<Type>Missile</Type>
+				<Name>9M330</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>77</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1223.44</Time>
+			<PrimaryObject ID="1447">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>Praleechka</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>1235.17</Time>
+			<PrimaryObject ID="158">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1448">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.X_25MP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>158</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1251.63</Time>
+			<PrimaryObject ID="158">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1449">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.X_25MP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>158</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1257.89</Time>
+			<PrimaryObject ID="158">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1450">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.X_25MP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>158</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1274.98</Time>
+			<PrimaryObject ID="37">
+				<Type>SAM/AAA</Type>
+				<Name>SA-8 Gecko</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 1</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="1448">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.X_25MP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>158</Parent>
+			</SecondaryObject>
+			<ParentObject ID="158">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1275.18</Time>
+			<PrimaryObject ID="37">
+				<Type>SAM/AAA</Type>
+				<Name>SA-8 Gecko</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 1</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="158">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1282.79</Time>
+			<PrimaryObject ID="158">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1451">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.X_25MP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>158</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1292.31</Time>
+			<PrimaryObject ID="36">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="1449">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.X_25MP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>158</Parent>
+			</SecondaryObject>
+			<ParentObject ID="158">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1293.39</Time>
+			<PrimaryObject ID="35">
+				<Type>SAM/AAA</Type>
+				<Name>ZSU-23-4 Shilka</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="1450">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.X_25MP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>158</Parent>
+			</SecondaryObject>
+			<ParentObject ID="158">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1293.53</Time>
+			<PrimaryObject ID="35">
+				<Type>SAM/AAA</Type>
+				<Name>ZSU-23-4 Shilka</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 2</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="158">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1298.74</Time>
+			<PrimaryObject ID="1398">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>1304.35</Time>
+			<PrimaryObject ID="77">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3 #002</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="158">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1304.39</Time>
+			<PrimaryObject ID="77">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3 #002</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="1451">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.X_25MP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>158</Parent>
+			</SecondaryObject>
+			<ParentObject ID="158">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1309.42</Time>
+			<PrimaryObject ID="15">
+				<Type>Aircraft</Type>
+				<Name>CASA C-101CC</Name>
+				<Pilot>Aerial-1-3</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Aerial-1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1452">
+				<Type>Missile</Type>
+				<Name>AIM-9M Sidewinder</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>15</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1313.87</Time>
+			<PrimaryObject ID="11">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="1452">
+				<Type>Missile</Type>
+				<Name>AIM-9M Sidewinder</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>15</Parent>
+			</SecondaryObject>
+			<ParentObject ID="15">
+				<Type>Aircraft</Type>
+				<Name>CASA C-101CC</Name>
+				<Pilot>Aerial-1-3</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Aerial-1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1313.87</Time>
+			<PrimaryObject ID="11">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="15">
+				<Type>Aircraft</Type>
+				<Name>CASA C-101CC</Name>
+				<Pilot>Aerial-1-3</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Aerial-1</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1320.13</Time>
+			<PrimaryObject ID="158">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1472">
+				<Type>Missile</Type>
+				<Name>R-73 (AA-11 Archer)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>158</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1322.44</Time>
+			<PrimaryObject ID="1447">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>Praleechka</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>1329.54</Time>
+			<PrimaryObject ID="15">
+				<Type>Aircraft</Type>
+				<Name>CASA C-101CC</Name>
+				<Pilot>Aerial-1-3</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Aerial-1</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="1472">
+				<Type>Missile</Type>
+				<Name>R-73 (AA-11 Archer)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>158</Parent>
+			</SecondaryObject>
+			<ParentObject ID="158">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1329.54</Time>
+			<PrimaryObject ID="15">
+				<Type>Aircraft</Type>
+				<Name>CASA C-101CC</Name>
+				<Pilot>Aerial-1-3</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Aerial-1</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="158">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1331.26</Time>
+			<PrimaryObject ID="78">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Pilot>SAM 3 #002-1</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3 #002</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1481">
+				<Type>Missile</Type>
+				<Name>9M330</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>78</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1335.64</Time>
+			<PrimaryObject ID="78">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Pilot>SAM 3 #002-1</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3 #002</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1485">
+				<Type>Missile</Type>
+				<Name>9M330</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>78</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1349.32</Time>
+			<PrimaryObject ID="1481">
+				<Type>Missile</Type>
+				<Name>9M330</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>78</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1353.69</Time>
+			<PrimaryObject ID="1485">
+				<Type>Missile</Type>
+				<Name>9M330</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>78</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1362.12</Time>
+			<PrimaryObject ID="1495">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<SecondaryObject ID="5">
+				<Type>Airport</Type>
+				<Name>FARP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1393.52</Time>
+			<PrimaryObject ID="34">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1517">
+				<Type>Missile</Type>
+				<Name>9M330</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>34</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1395.52</Time>
+			<PrimaryObject ID="1517">
+				<Type>Missile</Type>
+				<Name>9M330</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>34</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1395.82</Time>
+			<PrimaryObject ID="78">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Pilot>SAM 3 #002-1</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3 #002</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1518">
+				<Type>Missile</Type>
+				<Name>9M330</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>78</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1401.99</Time>
+			<PrimaryObject ID="78">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Pilot>SAM 3 #002-1</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3 #002</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1531">
+				<Type>Missile</Type>
+				<Name>9M330</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>78</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1408.03</Time>
+			<PrimaryObject ID="1531">
+				<Type>Missile</Type>
+				<Name>9M330</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>78</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1409.87</Time>
+			<PrimaryObject ID="1518">
+				<Type>Missile</Type>
+				<Name>9M330</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>78</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1415.31</Time>
+			<PrimaryObject ID="13">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1553">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.X_25MP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>13</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1434.29</Time>
+			<PrimaryObject ID="13">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1554">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.X_25MP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>13</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1445.56</Time>
+			<PrimaryObject ID="158">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>136</Occurrences>
+			<SecondaryObject ID="1578">
+				<Type>Shell</Type>
+				<Name>weapons.shells.GSH301_30_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>158</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1448.16</Time>
+			<PrimaryObject ID="78">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Pilot>SAM 3 #002-1</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3 #002</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="158">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1448.37</Time>
+			<PrimaryObject ID="78">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Pilot>SAM 3 #002-1</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3 #002</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="1578">
+				<Type>Shell</Type>
+				<Name>weapons.shells.GSH301_30_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>158</Parent>
+			</SecondaryObject>
+			<ParentObject ID="158">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1452.35</Time>
+			<PrimaryObject ID="34">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>25</Occurrences>
+			<SecondaryObject ID="1662">
+				<Type>Shell</Type>
+				<Name>weapons.shells.GSH301_30_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>34</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1453.62</Time>
+			<PrimaryObject ID="34">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>6</Occurrences>
+			<SecondaryObject ID="1664">
+				<Type>Shell</Type>
+				<Name>weapons.shells.GSH301_30_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>158</Parent>
+			</SecondaryObject>
+			<ParentObject ID="158">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1467.37</Time>
+			<PrimaryObject ID="34">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 2</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="13">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1467.58</Time>
+			<PrimaryObject ID="34">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="1553">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.X_25MP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>13</Parent>
+			</SecondaryObject>
+			<ParentObject ID="13">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1471.28</Time>
+			<PrimaryObject ID="36">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="1554">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.X_25MP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>13</Parent>
+			</SecondaryObject>
+			<ParentObject ID="13">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1490.87</Time>
+			<PrimaryObject ID="158">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>59</Occurrences>
+			<SecondaryObject ID="1871">
+				<Type>Shell</Type>
+				<Name>weapons.shells.GSH301_30_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>158</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1493.16</Time>
+			<PrimaryObject ID="36">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>3</Occurrences>
+			<SecondaryObject ID="1871">
+				<Type>Shell</Type>
+				<Name>weapons.shells.GSH301_30_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>158</Parent>
+			</SecondaryObject>
+			<ParentObject ID="158">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1531.83</Time>
+			<PrimaryObject ID="156">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>25</Occurrences>
+			<SecondaryObject ID="1904">
+				<Type>Shell</Type>
+				<Name>weapons.shells.GSH301_30_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>156</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1532.69</Time>
+			<PrimaryObject ID="36">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>2</Occurrences>
+			<SecondaryObject ID="1904">
+				<Type>Shell</Type>
+				<Name>weapons.shells.GSH301_30_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>156</Parent>
+			</SecondaryObject>
+			<ParentObject ID="156">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1534.34</Time>
+			<PrimaryObject ID="158">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>18</Occurrences>
+			<SecondaryObject ID="1924">
+				<Type>Shell</Type>
+				<Name>weapons.shells.GSH301_30_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>158</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1536.16</Time>
+			<PrimaryObject ID="36">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>2</Occurrences>
+			<SecondaryObject ID="1924">
+				<Type>Shell</Type>
+				<Name>weapons.shells.GSH301_30_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>158</Parent>
+			</SecondaryObject>
+			<ParentObject ID="158">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1542.95</Time>
+			<PrimaryObject ID="32">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1936">
+				<Type>Missile</Type>
+				<Name>9M330</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>32</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1547.04</Time>
+			<PrimaryObject ID="32">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1937">
+				<Type>Missile</Type>
+				<Name>9M330</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>32</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1551.17</Time>
+			<PrimaryObject ID="1447">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>Praleechka</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="1936">
+				<Type>Missile</Type>
+				<Name>9M330</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>32</Parent>
+			</SecondaryObject>
+			<ParentObject ID="32">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1551.17</Time>
+			<PrimaryObject ID="1447">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>Praleechka</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="32">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1553.05</Time>
+			<PrimaryObject ID="1937">
+				<Type>Missile</Type>
+				<Name>9M330</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>32</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1554.66</Time>
+			<PrimaryObject ID="1948">
+				<Type>Missile</Type>
+				<Name>Missile</Name>
+				<Coalition>Neutral</Coalition>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>1554.66</Time>
+			<PrimaryObject ID="1947">
+				<Type>Missile</Type>
+				<Name>Missile</Name>
+				<Coalition>Neutral</Coalition>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>1579.35</Time>
+			<PrimaryObject ID="1970">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>Praleechka</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>1586.01</Time>
+			<PrimaryObject ID="13">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1974">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.X_25MP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>13</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1592.01</Time>
+			<PrimaryObject ID="13">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1994">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.X_25MP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>13</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1630.86</Time>
+			<PrimaryObject ID="76">
+				<Type>SAM/AAA</Type>
+				<Name>ZSU-23-4 Shilka</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #012</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="13">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1630.92</Time>
+			<PrimaryObject ID="76">
+				<Type>SAM/AAA</Type>
+				<Name>ZSU-23-4 Shilka</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #012</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="1994">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.X_25MP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>13</Parent>
+			</SecondaryObject>
+			<ParentObject ID="13">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1631.31</Time>
+			<PrimaryObject ID="1331">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="2005">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>1331</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1634.49</Time>
+			<PrimaryObject ID="71">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3 #001</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="1974">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.X_25MP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>13</Parent>
+			</SecondaryObject>
+			<ParentObject ID="13">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1647.20</Time>
+			<PrimaryObject ID="69">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #011</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="1331">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1647.27</Time>
+			<PrimaryObject ID="69">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #011</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="2005">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>1331</Parent>
+			</SecondaryObject>
+			<ParentObject ID="1331">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1672.13</Time>
+			<PrimaryObject ID="1331">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="2006">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>1331</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1684.28</Time>
+			<PrimaryObject ID="61">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="1331">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1684.38</Time>
+			<PrimaryObject ID="61">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="2006">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>1331</Parent>
+			</SecondaryObject>
+			<ParentObject ID="1331">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1691.99</Time>
+			<PrimaryObject ID="1970">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>Praleechka</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>1701.93</Time>
+			<PrimaryObject ID="1331">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="2024">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>1331</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1712.44</Time>
+			<PrimaryObject ID="62">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="1331">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1712.47</Time>
+			<PrimaryObject ID="62">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="2024">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>1331</Parent>
+			</SecondaryObject>
+			<ParentObject ID="1331">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1723.25</Time>
+			<PrimaryObject ID="158">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="2064">
+				<Type>Missile</Type>
+				<Name>R-73 (AA-11 Archer)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>158</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1728.08</Time>
+			<PrimaryObject ID="2064">
+				<Type>Missile</Type>
+				<Name>R-73 (AA-11 Archer)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>158</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1734.16</Time>
+			<PrimaryObject ID="1331">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="2075">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>1331</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1742.48</Time>
+			<PrimaryObject ID="67">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #011</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="2076">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.REFLEX</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>67</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1743.92</Time>
+			<PrimaryObject ID="67">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #011</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="1331">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1743.93</Time>
+			<PrimaryObject ID="67">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #011</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="2075">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>1331</Parent>
+			</SecondaryObject>
+			<ParentObject ID="1331">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1756.09</Time>
+			<PrimaryObject ID="66">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #010</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="2078">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.REFLEX</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>66</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1757.41</Time>
+			<PrimaryObject ID="1331">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="2079">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>1331</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1759.50</Time>
+			<PrimaryObject ID="64">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #010</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="2080">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.REFLEX</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>64</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1762.82</Time>
+			<PrimaryObject ID="65">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #010</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="2081">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.REFLEX</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>65</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1766.76</Time>
+			<PrimaryObject ID="2076">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.REFLEX</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>67</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1767.13</Time>
+			<PrimaryObject ID="64">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #010</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="2079">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>1331</Parent>
+			</SecondaryObject>
+			<ParentObject ID="1331">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1767.15</Time>
+			<PrimaryObject ID="64">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #010</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="1331">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1778.03</Time>
+			<PrimaryObject ID="1331">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="2081">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.REFLEX</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>65</Parent>
+			</SecondaryObject>
+			<ParentObject ID="65">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #010</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1778.39</Time>
+			<PrimaryObject ID="2078">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.REFLEX</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>66</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1782.18</Time>
+			<PrimaryObject ID="2080">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.REFLEX</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>64</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1788.37</Time>
+			<PrimaryObject ID="1331">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="65">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #010</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1789.17</Time>
+			<PrimaryObject ID="1331">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="2267">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Parent>1331</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1821.19</Time>
+			<PrimaryObject ID="2268">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<SecondaryObject ID="5">
+				<Type>Airport</Type>
+				<Name>FARP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1881.21</Time>
+			<PrimaryObject ID="13">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="2272">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.X_58</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>13</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1884.88</Time>
+			<PrimaryObject ID="19">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>Aerial-3-2</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Aerial-3</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1909.88</Time>
+			<PrimaryObject ID="158">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasLanded</Action>
+			<Airport ID="ICAO:UGTB">
+				<Name>Tbilsi-Lochini</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>1916.73</Time>
+			<PrimaryObject ID="158">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1920.26</Time>
+			<PrimaryObject ID="2273">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<Airport ID="ICAO:UGTB">
+				<Name>Tbilsi-Lochini</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>1942.59</Time>
+			<PrimaryObject ID="13">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="2274">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.X_58</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>13</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1950.97</Time>
+			<PrimaryObject ID="75">
+				<Type>SAM/AAA</Type>
+				<Name>SA-8 Gecko</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #012</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="2272">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.X_58</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>13</Parent>
+			</SecondaryObject>
+			<ParentObject ID="13">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1972.08</Time>
+			<PrimaryObject ID="32">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="2274">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.X_58</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>13</Parent>
+			</SecondaryObject>
+			<ParentObject ID="13">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2016.47</Time>
+			<PrimaryObject ID="156">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasLanded</Action>
+		</Event>
+		<Event>
+			<Time>2024.76</Time>
+			<PrimaryObject ID="156">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2026.43</Time>
+			<PrimaryObject ID="2275">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<Airport ID="ICAO:UGTB">
+				<Name>Tbilsi-Lochini</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>2093.74</Time>
+			<PrimaryObject ID="1970">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>Praleechka</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2108.71</Time>
+			<PrimaryObject ID="2316">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>Praleechka</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>2147.73</Time>
+			<PrimaryObject ID="125">
+				<Type>SAM/AAA</Type>
+				<Name>MIM-23 Hawk (M192 LN)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Uragan #015</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="2317">
+				<Type>Missile</Type>
+				<Name>MIM-23B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>125</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2160.73</Time>
+			<PrimaryObject ID="121">
+				<Type>SAM/AAA</Type>
+				<Name>MIM-23 Hawk (M192 LN)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Uragan #015</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="2318">
+				<Type>Missile</Type>
+				<Name>MIM-23B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>121</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2174.15</Time>
+			<PrimaryObject ID="125">
+				<Type>SAM/AAA</Type>
+				<Name>MIM-23 Hawk (M192 LN)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Uragan #015</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="2319">
+				<Type>Missile</Type>
+				<Name>MIM-23B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>125</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2206.05</Time>
+			<PrimaryObject ID="17">
+				<Type>Aircraft</Type>
+				<Name>L-39ZA Albatros</Name>
+				<Pilot>Aerial-2-2</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Aerial-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="2320">
+				<Type>Missile</Type>
+				<Name>R-60M (AA-8 Aphid-B)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>17</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2214.47</Time>
+			<PrimaryObject ID="2317">
+				<Type>Missile</Type>
+				<Name>MIM-23B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>125</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2215.08</Time>
+			<PrimaryObject ID="2316">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>Praleechka</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>2216.02</Time>
+			<PrimaryObject ID="17">
+				<Type>Aircraft</Type>
+				<Name>L-39ZA Albatros</Name>
+				<Pilot>Aerial-2-2</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Aerial-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>2</Occurrences>
+			<SecondaryObject ID="2351">
+				<Type>Shell</Type>
+				<Name>weapons.shells.GSH23_23_HE_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>17</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2217.48</Time>
+			<PrimaryObject ID="2320">
+				<Type>Missile</Type>
+				<Name>R-60M (AA-8 Aphid-B)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>17</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2222.86</Time>
+			<PrimaryObject ID="2318">
+				<Type>Missile</Type>
+				<Name>MIM-23B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>121</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2225.64</Time>
+			<PrimaryObject ID="2273">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+			<Airport ID="ICAO:UGTB">
+				<Name>Tbilsi-Lochini</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>2230.83</Time>
+			<PrimaryObject ID="2268">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="2522">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>ge</Country>
+				<Parent>2268</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2232.56</Time>
+			<PrimaryObject ID="2268">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2232.70</Time>
+			<PrimaryObject ID="2319">
+				<Type>Missile</Type>
+				<Name>MIM-23B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>125</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2234.47</Time>
+			<PrimaryObject ID="125">
+				<Type>SAM/AAA</Type>
+				<Name>MIM-23 Hawk (M192 LN)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Uragan #015</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="2523">
+				<Type>Missile</Type>
+				<Name>MIM-23B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>125</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2241.22</Time>
+			<PrimaryObject ID="17">
+				<Type>Aircraft</Type>
+				<Name>L-39ZA Albatros</Name>
+				<Pilot>Aerial-2-2</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Aerial-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="2524">
+				<Type>Missile</Type>
+				<Name>R-60M (AA-8 Aphid-B)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>17</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2245.99</Time>
+			<PrimaryObject ID="1495">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="2524">
+				<Type>Missile</Type>
+				<Name>R-60M (AA-8 Aphid-B)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>17</Parent>
+			</SecondaryObject>
+			<ParentObject ID="17">
+				<Type>Aircraft</Type>
+				<Name>L-39ZA Albatros</Name>
+				<Pilot>Aerial-2-2</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Aerial-2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2245.99</Time>
+			<PrimaryObject ID="1495">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="17">
+				<Type>Aircraft</Type>
+				<Name>L-39ZA Albatros</Name>
+				<Pilot>Aerial-2-2</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Aerial-2</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2250.43</Time>
+			<PrimaryObject ID="121">
+				<Type>SAM/AAA</Type>
+				<Name>MIM-23 Hawk (M192 LN)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Uragan #015</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="2544">
+				<Type>Missile</Type>
+				<Name>MIM-23B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>121</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2262.05</Time>
+			<PrimaryObject ID="1398">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="3409">
+				<Type>Missile</Type>
+				<Name>R-60 (AA-8 Aphid-A)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>1398</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2264.56</Time>
+			<PrimaryObject ID="17">
+				<Type>Aircraft</Type>
+				<Name>L-39ZA Albatros</Name>
+				<Pilot>Aerial-2-2</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Aerial-2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="3409">
+				<Type>Missile</Type>
+				<Name>R-60 (AA-8 Aphid-A)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>1398</Parent>
+			</SecondaryObject>
+			<ParentObject ID="1398">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2264.56</Time>
+			<PrimaryObject ID="17">
+				<Type>Aircraft</Type>
+				<Name>L-39ZA Albatros</Name>
+				<Pilot>Aerial-2-2</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Aerial-2</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="1398">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2268.48</Time>
+			<PrimaryObject ID="2544">
+				<Type>Missile</Type>
+				<Name>MIM-23B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>121</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2268.53</Time>
+			<PrimaryObject ID="2523">
+				<Type>Missile</Type>
+				<Name>MIM-23B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>125</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2279.07</Time>
+			<PrimaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<SecondaryObject ID="5">
+				<Type>Airport</Type>
+				<Name>FARP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2309.28</Time>
+			<PrimaryObject ID="9">
+				<Type>Helicopter</Type>
+				<Name>Mi-8MT Hip</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>logistic1</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2311.70</Time>
+			<PrimaryObject ID="3461">
+				<Type>Helicopter</Type>
+				<Name>Mi-8MT Hip</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>logistic1</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>2337.80</Time>
+			<PrimaryObject ID="13">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasLanded</Action>
+		</Event>
+		<Event>
+			<Time>2353.02</Time>
+			<PrimaryObject ID="13">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="3470">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>ge</Country>
+				<Parent>13</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2353.48</Time>
+			<PrimaryObject ID="13">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2353.57</Time>
+			<PrimaryObject ID="3471">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<Airport ID="ICAO:UGTB">
+				<Name>Tbilsi-Lochini</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>2460.43</Time>
+			<PrimaryObject ID="3461">
+				<Type>Helicopter</Type>
+				<Name>Mi-8MT Hip</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>logistic1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>2</Occurrences>
+			<SecondaryObject ID="3477">
+				<Type>Shell</Type>
+				<Name>weapons.shells.VOG17</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3461</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2461.26</Time>
+			<PrimaryObject ID="146">
+				<Type>Helicopter</Type>
+				<Name>Mi-8MT Hip</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>logistic1</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2463.80</Time>
+			<PrimaryObject ID="3478">
+				<Type>Helicopter</Type>
+				<Name>Mi-8MT Hip</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>logistic1</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>2534.48</Time>
+			<PrimaryObject ID="3478">
+				<Type>Helicopter</Type>
+				<Name>Mi-8MT Hip</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>logistic1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>2</Occurrences>
+			<SecondaryObject ID="3480">
+				<Type>Shell</Type>
+				<Name>weapons.shells.VOG17</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3478</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2577.59</Time>
+			<PrimaryObject ID="2273">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>112</Occurrences>
+			<SecondaryObject ID="3516">
+				<Type>Shell</Type>
+				<Name>weapons.shells.GSH301_30_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>2273</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2579.62</Time>
+			<PrimaryObject ID="36">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>13</Occurrences>
+			<SecondaryObject ID="3516">
+				<Type>Shell</Type>
+				<Name>weapons.shells.GSH301_30_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>2273</Parent>
+			</SecondaryObject>
+			<ParentObject ID="2273">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2580.01</Time>
+			<PrimaryObject ID="3478">
+				<Type>Helicopter</Type>
+				<Name>Mi-8MT Hip</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>logistic1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>4</Occurrences>
+			<SecondaryObject ID="3551">
+				<Type>Shell</Type>
+				<Name>weapons.shells.VOG17</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3478</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2581.68</Time>
+			<PrimaryObject ID="36">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>13</Occurrences>
+			<SecondaryObject ID="3554">
+				<Type>Shell</Type>
+				<Name>weapons.shells.GSH301_30_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>2273</Parent>
+			</SecondaryObject>
+			<ParentObject ID="2273">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2583.64</Time>
+			<PrimaryObject ID="36">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>13</Occurrences>
+			<SecondaryObject ID="3600">
+				<Type>Shell</Type>
+				<Name>weapons.shells.GSH301_30_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>2273</Parent>
+			</SecondaryObject>
+			<ParentObject ID="2273">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2607.42</Time>
+			<PrimaryObject ID="33">
+				<Type>SAM/AAA</Type>
+				<Name>SA-8 Gecko</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="3629">
+				<Type>Missile</Type>
+				<Name>9M33</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>33</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2615.06</Time>
+			<PrimaryObject ID="33">
+				<Type>SAM/AAA</Type>
+				<Name>SA-8 Gecko</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="3634">
+				<Type>Missile</Type>
+				<Name>9M33</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>33</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2615.60</Time>
+			<PrimaryObject ID="2273">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="3629">
+				<Type>Missile</Type>
+				<Name>9M33</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>33</Parent>
+			</SecondaryObject>
+			<ParentObject ID="33">
+				<Type>SAM/AAA</Type>
+				<Name>SA-8 Gecko</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2617.85</Time>
+			<PrimaryObject ID="3634">
+				<Type>Missile</Type>
+				<Name>9M33</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>33</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2618.78</Time>
+			<PrimaryObject ID="2273">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="3640">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>ge</Country>
+				<Parent>2273</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2619.60</Time>
+			<PrimaryObject ID="2273">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="33">
+				<Type>SAM/AAA</Type>
+				<Name>SA-8 Gecko</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2631.06</Time>
+			<PrimaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="3692">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2631.89</Time>
+			<PrimaryObject ID="3693">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<Airport ID="ICAO:UGTB">
+				<Name>Tbilsi-Lochini</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>2646.63</Time>
+			<PrimaryObject ID="70">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #011</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="3692">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+			<ParentObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2658.18</Time>
+			<PrimaryObject ID="3693">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+			<Airport ID="ICAO:UGTB">
+				<Name>Tbilsi-Lochini</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>2658.75</Time>
+			<PrimaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="3694">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2666.41</Time>
+			<PrimaryObject ID="3693">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2669.87</Time>
+			<PrimaryObject ID="70">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #011</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="3694">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+			<ParentObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2674.08</Time>
+			<PrimaryObject ID="3711">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<Airport ID="ICAO:UGTB">
+				<Name>Tbilsi-Lochini</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>2678.92</Time>
+			<PrimaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="3712">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2687.82</Time>
+			<PrimaryObject ID="70">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #011</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2687.91</Time>
+			<PrimaryObject ID="70">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #011</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="3712">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+			<ParentObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2704.29</Time>
+			<PrimaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="3713">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2711.24</Time>
+			<PrimaryObject ID="65">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #010</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="3713">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+			<ParentObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2718.90</Time>
+			<PrimaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>19</Occurrences>
+			<SecondaryObject ID="3732">
+				<Type>Shell</Type>
+				<Name>weapons.shells.2A42_30_HE</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2725.49</Time>
+			<PrimaryObject ID="65">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #010</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="3732">
+				<Type>Shell</Type>
+				<Name>weapons.shells.2A42_30_HE</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+			<ParentObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2725.67</Time>
+			<PrimaryObject ID="66">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #010</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="3733">
+				<Type>Shell</Type>
+				<Name>weapons.shells.2A42_30_HE</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+			<ParentObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2733.33</Time>
+			<PrimaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="3743">
+				<Type>Shell</Type>
+				<Name>weapons.shells.Utes_12_7x108_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>65</Parent>
+			</SecondaryObject>
+			<ParentObject ID="65">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #010</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2789.57</Time>
+			<PrimaryObject ID="3711">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+			<Airport ID="ICAO:UGTB">
+				<Name>Tbilsi-Lochini</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>2794.61</Time>
+			<PrimaryObject ID="21">
+				<Type>Aircraft</Type>
+				<Name>L-39ZA Albatros</Name>
+				<Pilot>Aerial-4-2</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Aerial-4</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="3773">
+				<Type>Missile</Type>
+				<Name>R-60M (AA-8 Aphid-B)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>21</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2799.64</Time>
+			<PrimaryObject ID="2316">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>Praleechka</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="3773">
+				<Type>Missile</Type>
+				<Name>R-60M (AA-8 Aphid-B)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>21</Parent>
+			</SecondaryObject>
+			<ParentObject ID="21">
+				<Type>Aircraft</Type>
+				<Name>L-39ZA Albatros</Name>
+				<Pilot>Aerial-4-2</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Aerial-4</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2799.64</Time>
+			<PrimaryObject ID="2316">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>Praleechka</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="21">
+				<Type>Aircraft</Type>
+				<Name>L-39ZA Albatros</Name>
+				<Pilot>Aerial-4-2</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Aerial-4</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2813.11</Time>
+			<PrimaryObject ID="3792">
+				<Type>Missile</Type>
+				<Name>Missile</Name>
+				<Coalition>Neutral</Coalition>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>2813.83</Time>
+			<PrimaryObject ID="3711">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>13</Occurrences>
+			<SecondaryObject ID="3815">
+				<Type>Shell</Type>
+				<Name>weapons.shells.GSH301_30_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3711</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2817.87</Time>
+			<PrimaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="3828">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2824.50</Time>
+			<PrimaryObject ID="65">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #010</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2824.52</Time>
+			<PrimaryObject ID="65">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #010</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="3828">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+			<ParentObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2825.10</Time>
+			<PrimaryObject ID="3471">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>2843.80</Time>
+			<PrimaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="3829">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2846.08</Time>
+			<PrimaryObject ID="66">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #010</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="3830">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.REFLEX</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>66</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2850.09</Time>
+			<PrimaryObject ID="66">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #010</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="3829">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+			<ParentObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2850.09</Time>
+			<PrimaryObject ID="66">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #010</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2851.66</Time>
+			<PrimaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>9</Occurrences>
+			<SecondaryObject ID="3831">
+				<Type>Shell</Type>
+				<Name>weapons.shells.2A42_30_HE</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2878.06</Time>
+			<PrimaryObject ID="3830">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.REFLEX</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>66</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2925.40</Time>
+			<PrimaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="3840">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2937.99</Time>
+			<PrimaryObject ID="23">
+				<Type>Tank</Type>
+				<Name>Uragan_BM-27</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2938.32</Time>
+			<PrimaryObject ID="24">
+				<Type>Tank</Type>
+				<Name>Uragan_BM-27</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="3840">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+			<ParentObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2947.71</Time>
+			<PrimaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="3841">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2952.62</Time>
+			<PrimaryObject ID="127">
+				<Type>SAM/AAA</Type>
+				<Name>MIM-23 Hawk (M192 LN)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Uragan #015</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="3842">
+				<Type>Missile</Type>
+				<Name>MIM-23B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>127</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2956.17</Time>
+			<PrimaryObject ID="3843">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>Praleechka</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>2958.04</Time>
+			<PrimaryObject ID="122">
+				<Type>SAM/AAA</Type>
+				<Name>MIM-23 Hawk (M192 LN)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Uragan #015</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="3844">
+				<Type>Missile</Type>
+				<Name>MIM-23B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>122</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2960.01</Time>
+			<PrimaryObject ID="27">
+				<Type>SAM/AAA</Type>
+				<Name>ZSU-23-4 Shilka</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2960.45</Time>
+			<PrimaryObject ID="27">
+				<Type>SAM/AAA</Type>
+				<Name>ZSU-23-4 Shilka</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="3841">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+			<ParentObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2977.23</Time>
+			<PrimaryObject ID="18">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>Aerial-3-1</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Aerial-3</Group>
+			</PrimaryObject>
+			<Action>HasLanded</Action>
+		</Event>
+		<Event>
+			<Time>2982.87</Time>
+			<PrimaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="3845">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2992.20</Time>
+			<PrimaryObject ID="127">
+				<Type>SAM/AAA</Type>
+				<Name>MIM-23 Hawk (M192 LN)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Uragan #015</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="3856">
+				<Type>Missile</Type>
+				<Name>MIM-23B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>127</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2994.01</Time>
+			<PrimaryObject ID="24">
+				<Type>Tank</Type>
+				<Name>Uragan_BM-27</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2994.10</Time>
+			<PrimaryObject ID="24">
+				<Type>Tank</Type>
+				<Name>Uragan_BM-27</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="3845">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+			<ParentObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>3001.15</Time>
+			<PrimaryObject ID="21">
+				<Type>Aircraft</Type>
+				<Name>L-39ZA Albatros</Name>
+				<Pilot>Aerial-4-2</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Aerial-4</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="3844">
+				<Type>Missile</Type>
+				<Name>MIM-23B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>122</Parent>
+			</SecondaryObject>
+			<ParentObject ID="122">
+				<Type>SAM/AAA</Type>
+				<Name>MIM-23 Hawk (M192 LN)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Uragan #015</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>3001.15</Time>
+			<PrimaryObject ID="21">
+				<Type>Aircraft</Type>
+				<Name>L-39ZA Albatros</Name>
+				<Pilot>Aerial-4-2</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Aerial-4</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="122">
+				<Type>SAM/AAA</Type>
+				<Name>MIM-23 Hawk (M192 LN)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Uragan #015</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3006.24</Time>
+			<PrimaryObject ID="3856">
+				<Type>Missile</Type>
+				<Name>MIM-23B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>127</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>3006.34</Time>
+			<PrimaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="3969">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3010.75</Time>
+			<PrimaryObject ID="3842">
+				<Type>Missile</Type>
+				<Name>MIM-23B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>127</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>3010.80</Time>
+			<PrimaryObject ID="127">
+				<Type>SAM/AAA</Type>
+				<Name>MIM-23 Hawk (M192 LN)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Uragan #015</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="3979">
+				<Type>Missile</Type>
+				<Name>MIM-23B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>127</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3016.66</Time>
+			<PrimaryObject ID="26">
+				<Type>Tank</Type>
+				<Name>Uragan_BM-27</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3016.77</Time>
+			<PrimaryObject ID="26">
+				<Type>Tank</Type>
+				<Name>Uragan_BM-27</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="3969">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+			<ParentObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>3034.20</Time>
+			<PrimaryObject ID="126">
+				<Type>SAM/AAA</Type>
+				<Name>MIM-23 Hawk (M192 LN)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Uragan #015</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="4032">
+				<Type>Missile</Type>
+				<Name>MIM-23B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>126</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3046.24</Time>
+			<PrimaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>20</Occurrences>
+			<SecondaryObject ID="4034">
+				<Type>Shell</Type>
+				<Name>weapons.shells.GSH23_23_HE_T</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3047.47</Time>
+			<PrimaryObject ID="3711">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="4053">
+				<Type>Missile</Type>
+				<Name>R-73 (AA-11 Archer)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3711</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3048.88</Time>
+			<PrimaryObject ID="3979">
+				<Type>Missile</Type>
+				<Name>MIM-23B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>127</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>3049.09</Time>
+			<PrimaryObject ID="126">
+				<Type>SAM/AAA</Type>
+				<Name>MIM-23 Hawk (M192 LN)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Uragan #015</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="4054">
+				<Type>Missile</Type>
+				<Name>MIM-23B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>126</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3050.34</Time>
+			<PrimaryObject ID="3471">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="4053">
+				<Type>Missile</Type>
+				<Name>R-73 (AA-11 Archer)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3711</Parent>
+			</SecondaryObject>
+			<ParentObject ID="3711">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>3056.44</Time>
+			<PrimaryObject ID="4032">
+				<Type>Missile</Type>
+				<Name>MIM-23B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>126</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>3056.63</Time>
+			<PrimaryObject ID="3843">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>Praleechka</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>3056.97</Time>
+			<PrimaryObject ID="126">
+				<Type>SAM/AAA</Type>
+				<Name>MIM-23 Hawk (M192 LN)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Uragan #015</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="4061">
+				<Type>Missile</Type>
+				<Name>MIM-23B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>126</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3060.62</Time>
+			<PrimaryObject ID="20">
+				<Type>Aircraft</Type>
+				<Name>L-39ZA Albatros</Name>
+				<Pilot>Aerial-4-1</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Aerial-4</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="4062">
+				<Type>Missile</Type>
+				<Name>R-60M (AA-8 Aphid-B)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>20</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3066.29</Time>
+			<PrimaryObject ID="1398">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="4062">
+				<Type>Missile</Type>
+				<Name>R-60M (AA-8 Aphid-B)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>20</Parent>
+			</SecondaryObject>
+			<ParentObject ID="20">
+				<Type>Aircraft</Type>
+				<Name>L-39ZA Albatros</Name>
+				<Pilot>Aerial-4-1</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Aerial-4</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>3067.16</Time>
+			<PrimaryObject ID="20">
+				<Type>Aircraft</Type>
+				<Name>L-39ZA Albatros</Name>
+				<Pilot>Aerial-4-1</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Aerial-4</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="4069">
+				<Type>Missile</Type>
+				<Name>R-60M (AA-8 Aphid-B)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>20</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3076.43</Time>
+			<PrimaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="4089">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3082.65</Time>
+			<PrimaryObject ID="20">
+				<Type>Aircraft</Type>
+				<Name>L-39ZA Albatros</Name>
+				<Pilot>Aerial-4-1</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Aerial-4</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="4054">
+				<Type>Missile</Type>
+				<Name>MIM-23B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>126</Parent>
+			</SecondaryObject>
+			<ParentObject ID="126">
+				<Type>SAM/AAA</Type>
+				<Name>MIM-23 Hawk (M192 LN)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Uragan #015</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>3082.65</Time>
+			<PrimaryObject ID="20">
+				<Type>Aircraft</Type>
+				<Name>L-39ZA Albatros</Name>
+				<Pilot>Aerial-4-1</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Aerial-4</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="126">
+				<Type>SAM/AAA</Type>
+				<Name>MIM-23 Hawk (M192 LN)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Uragan #015</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3083.02</Time>
+			<PrimaryObject ID="4061">
+				<Type>Missile</Type>
+				<Name>MIM-23B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>126</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>3083.20</Time>
+			<PrimaryObject ID="3471">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="4111">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>ge</Country>
+				<Parent>3471</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3085.42</Time>
+			<PrimaryObject ID="25">
+				<Type>Tank</Type>
+				<Name>Uragan_BM-27</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3085.48</Time>
+			<PrimaryObject ID="25">
+				<Type>Tank</Type>
+				<Name>Uragan_BM-27</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="4089">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+			<ParentObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>3089.29</Time>
+			<PrimaryObject ID="3471">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="3711">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3094.05</Time>
+			<PrimaryObject ID="4156">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<Airport ID="ICAO:UGTB">
+				<Name>Tbilsi-Lochini</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>3097.18</Time>
+			<PrimaryObject ID="4069">
+				<Type>Missile</Type>
+				<Name>R-60M (AA-8 Aphid-B)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>20</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>3127.88</Time>
+			<PrimaryObject ID="4156">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+			<Airport ID="ICAO:UGTB">
+				<Name>Tbilsi-Lochini</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>3134.67</Time>
+			<PrimaryObject ID="1398">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="20">
+				<Type>Aircraft</Type>
+				<Name>L-39ZA Albatros</Name>
+				<Pilot>Aerial-4-1</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Aerial-4</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3134.80</Time>
+			<PrimaryObject ID="4173">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>3137.07</Time>
+			<PrimaryObject ID="3711">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="4189">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.X_25MP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3711</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3139.05</Time>
+			<PrimaryObject ID="4156">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>3141.24</Time>
+			<PrimaryObject ID="4227">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<Airport ID="ICAO:UGTB">
+				<Name>Tbilsi-Lochini</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>3165.88</Time>
+			<PrimaryObject ID="4227">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+			<Airport ID="ICAO:UGTB">
+				<Name>Tbilsi-Lochini</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>3175.26</Time>
+			<PrimaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="4231">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3175.71</Time>
+			<PrimaryObject ID="75">
+				<Type>SAM/AAA</Type>
+				<Name>SA-8 Gecko</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #012</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="4189">
+				<Type>Missile</Type>
+				<Name>weapons.missiles.X_25MP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3711</Parent>
+			</SecondaryObject>
+			<ParentObject ID="3711">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>3175.74</Time>
+			<PrimaryObject ID="75">
+				<Type>SAM/AAA</Type>
+				<Name>SA-8 Gecko</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #012</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="3711">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3178.48</Time>
+			<PrimaryObject ID="4227">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>3181.62</Time>
+			<PrimaryObject ID="4285">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<Airport ID="ICAO:UGTB">
+				<Name>Tbilsi-Lochini</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>3189.47</Time>
+			<PrimaryObject ID="4231">
+				<Type>Missile</Type>
+				<Name>9K121 Vikhr</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>3209.78</Time>
+			<PrimaryObject ID="3711">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>86</Occurrences>
+			<SecondaryObject ID="4370">
+				<Type>Shell</Type>
+				<Name>weapons.shells.GSH301_30_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3711</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3212.66</Time>
+			<PrimaryObject ID="71">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3 #001</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>5</Occurrences>
+			<SecondaryObject ID="4370">
+				<Type>Shell</Type>
+				<Name>weapons.shells.GSH301_30_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3711</Parent>
+			</SecondaryObject>
+			<ParentObject ID="3711">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>3213.79</Time>
+			<PrimaryObject ID="3711">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="4364">
+				<Type>Shell</Type>
+				<Name>weapons.shells.Utes_12_7x108_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>72</Parent>
+			</SecondaryObject>
+			<ParentObject ID="72">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #012</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>3215.22</Time>
+			<PrimaryObject ID="71">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3 #001</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="4379">
+				<Type>Shell</Type>
+				<Name>weapons.shells.Utes_12_7x108_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>72</Parent>
+			</SecondaryObject>
+			<ParentObject ID="72">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #012</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>3223.11</Time>
+			<PrimaryObject ID="3478">
+				<Type>Helicopter</Type>
+				<Name>Mi-8MT Hip</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>logistic1</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>3235.38</Time>
+			<PrimaryObject ID="4510">
+				<Type>Helicopter</Type>
+				<Name>Mi-8MT Hip</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>logistic1</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>3239.42</Time>
+			<PrimaryObject ID="4510">
+				<Type>Helicopter</Type>
+				<Name>Mi-8MT Hip</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>logistic1</Group>
+			</PrimaryObject>
+			<Action>HasLeftTheArea</Action>
+		</Event>
+		<Event>
+			<Time>3246.10</Time>
+			<PrimaryObject ID="3461">
+				<Type>Helicopter</Type>
+				<Name>Mi-8MT Hip</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>logistic1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>4</Occurrences>
+			<SecondaryObject ID="4512">
+				<Type>Shell</Type>
+				<Name>weapons.shells.VOG17</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3461</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3260.62</Time>
+			<PrimaryObject ID="3711">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>64</Occurrences>
+			<SecondaryObject ID="4515">
+				<Type>Shell</Type>
+				<Name>weapons.shells.GSH301_30_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3711</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3263.94</Time>
+			<PrimaryObject ID="3711">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="4587">
+				<Type>Shell</Type>
+				<Name>weapons.shells.Utes_12_7x108_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>73</Parent>
+			</SecondaryObject>
+			<ParentObject ID="73">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #012</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>3270.95</Time>
+			<PrimaryObject ID="3711">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>15</Occurrences>
+			<SecondaryObject ID="4621">
+				<Type>Shell</Type>
+				<Name>weapons.shells.GSH301_30_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3711</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3277.02</Time>
+			<PrimaryObject ID="3711">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="73">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #012</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3296.43</Time>
+			<PrimaryObject ID="4173">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>3308.11</Time>
+			<PrimaryObject ID="4285">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>3323.66</Time>
+			<PrimaryObject ID="3461">
+				<Type>Helicopter</Type>
+				<Name>Mi-8MT Hip</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>logistic1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>8</Occurrences>
+			<SecondaryObject ID="4686">
+				<Type>Shell</Type>
+				<Name>weapons.shells.VOG17</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3461</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3324.69</Time>
+			<PrimaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>4</Occurrences>
+			<SecondaryObject ID="4689">
+				<Type>Shell</Type>
+				<Name>weapons.shells.2A42_30_HE</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3334.02</Time>
+			<PrimaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>26</Occurrences>
+			<SecondaryObject ID="4708">
+				<Type>Shell</Type>
+				<Name>weapons.shells.2A42_30_HE</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3347.96</Time>
+			<PrimaryObject ID="71">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3 #001</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>2</Occurrences>
+			<SecondaryObject ID="4708">
+				<Type>Shell</Type>
+				<Name>weapons.shells.2A42_30_HE</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+			<ParentObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>3348.98</Time>
+			<PrimaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>4</Occurrences>
+			<SecondaryObject ID="4729">
+				<Type>Shell</Type>
+				<Name>weapons.shells.2A42_30_HE</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3350.08</Time>
+			<PrimaryObject ID="71">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3 #001</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>2</Occurrences>
+			<SecondaryObject ID="4716">
+				<Type>Shell</Type>
+				<Name>weapons.shells.2A42_30_HE</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+			<ParentObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>3360.37</Time>
+			<PrimaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>12</Occurrences>
+			<SecondaryObject ID="4745">
+				<Type>Shell</Type>
+				<Name>weapons.shells.2A42_30_HE</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3360.42</Time>
+			<PrimaryObject ID="3461">
+				<Type>Helicopter</Type>
+				<Name>Mi-8MT Hip</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>logistic1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>8</Occurrences>
+			<SecondaryObject ID="4747">
+				<Type>Shell</Type>
+				<Name>weapons.shells.VOG17</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3461</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3409.91</Time>
+			<PrimaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>15</Occurrences>
+			<SecondaryObject ID="4767">
+				<Type>Shell</Type>
+				<Name>weapons.shells.2A42_30_HE</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3410.16</Time>
+			<PrimaryObject ID="71">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3 #001</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>15</Occurrences>
+			<SecondaryObject ID="4767">
+				<Type>Shell</Type>
+				<Name>weapons.shells.2A42_30_HE</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3454</Parent>
+			</SecondaryObject>
+			<ParentObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>3410.51</Time>
+			<PrimaryObject ID="71">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3 #001</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="74">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #012</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3410.89</Time>
+			<PrimaryObject ID="71">
+				<Type>SAM/AAA</Type>
+				<Name>SA-15 Gauntlet</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM 3 #001</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="4785">
+				<Type>Shell</Type>
+				<Name>weapons.shells.2A42_30_HE</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>71</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3414.30</Time>
+			<PrimaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="4816">
+				<Type>Shell</Type>
+				<Name>weapons.shells.Utes_12_7x108_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>73</Parent>
+			</SecondaryObject>
+			<ParentObject ID="73">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #012</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>3418.92</Time>
+			<PrimaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>9</Occurrences>
+			<SecondaryObject ID="4849">
+				<Type>Shell</Type>
+				<Name>weapons.shells.7_62x54</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>73</Parent>
+			</SecondaryObject>
+			<ParentObject ID="73">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #012</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>3420.11</Time>
+			<PrimaryObject ID="3461">
+				<Type>Helicopter</Type>
+				<Name>Mi-8MT Hip</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>logistic1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>6</Occurrences>
+			<SecondaryObject ID="4922">
+				<Type>Shell</Type>
+				<Name>weapons.shells.VOG17</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3461</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3422.35</Time>
+			<PrimaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>22</Occurrences>
+			<SecondaryObject ID="4958">
+				<Type>Shell</Type>
+				<Name>weapons.shells.Utes_12_7x108_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>72</Parent>
+			</SecondaryObject>
+			<ParentObject ID="72">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #012</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>3427.59</Time>
+			<PrimaryObject ID="3461">
+				<Type>Helicopter</Type>
+				<Name>Mi-8MT Hip</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>logistic1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>2</Occurrences>
+			<SecondaryObject ID="5076">
+				<Type>Shell</Type>
+				<Name>weapons.shells.VOG17</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3461</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3432.33</Time>
+			<PrimaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>4</Occurrences>
+			<SecondaryObject ID="5156">
+				<Type>Shell</Type>
+				<Name>weapons.shells.Utes_12_7x108_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>72</Parent>
+			</SecondaryObject>
+			<ParentObject ID="72">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #012</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>3435.46</Time>
+			<PrimaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>3</Occurrences>
+			<SecondaryObject ID="5222">
+				<Type>Shell</Type>
+				<Name>weapons.shells.7_62x54</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>72</Parent>
+			</SecondaryObject>
+			<ParentObject ID="72">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #012</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>3445.54</Time>
+			<PrimaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="5272">
+				<Type>Shell</Type>
+				<Name>weapons.shells.2A46M_125_AP</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>74</Parent>
+			</SecondaryObject>
+			<ParentObject ID="74">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #012</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>3445.54</Time>
+			<PrimaryObject ID="3454">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>Attack-2</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="74">
+				<Type>Tank</Type>
+				<Name>T-90</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Uragan #012</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3476.90</Time>
+			<PrimaryObject ID="4285">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="5440">
+				<Type>Missile</Type>
+				<Name>R-73 (AA-11 Archer)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>4285</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3485.79</Time>
+			<PrimaryObject ID="4173">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="5440">
+				<Type>Missile</Type>
+				<Name>R-73 (AA-11 Archer)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>4285</Parent>
+			</SecondaryObject>
+			<ParentObject ID="4285">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>3485.79</Time>
+			<PrimaryObject ID="4173">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="4285">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3569.48</Time>
+			<PrimaryObject ID="3461">
+				<Type>Helicopter</Type>
+				<Name>Mi-8MT Hip</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>logistic1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>16</Occurrences>
+			<SecondaryObject ID="5475">
+				<Type>Shell</Type>
+				<Name>weapons.shells.VOG17</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3461</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3609.82</Time>
+			<PrimaryObject ID="5490">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>3638.27</Time>
+			<PrimaryObject ID="5490">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasLeftTheArea</Action>
+		</Event>
+		<Event>
+			<Time>3644.94</Time>
+			<PrimaryObject ID="3461">
+				<Type>Helicopter</Type>
+				<Name>Mi-8MT Hip</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>logistic1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>54</Occurrences>
+			<SecondaryObject ID="5491">
+				<Type>Shell</Type>
+				<Name>weapons.shells.YakB_12_7_T</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3461</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3648.70</Time>
+			<PrimaryObject ID="44">
+				<Type>SAM/AAA</Type>
+				<Name>SA-10 Grumble (LN)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM SA-10</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="5500">
+				<Type>Missile</Type>
+				<Name>5V55R</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>44</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3667.66</Time>
+			<PrimaryObject ID="3461">
+				<Type>Helicopter</Type>
+				<Name>Mi-8MT Hip</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>logistic1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>54</Occurrences>
+			<SecondaryObject ID="5547">
+				<Type>Shell</Type>
+				<Name>weapons.shells.YakB_12_7</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3461</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3704.62</Time>
+			<PrimaryObject ID="3461">
+				<Type>Helicopter</Type>
+				<Name>Mi-8MT Hip</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>logistic1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>7</Occurrences>
+			<SecondaryObject ID="5601">
+				<Type>Shell</Type>
+				<Name>weapons.shells.YakB_12_7</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3461</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3709.16</Time>
+			<PrimaryObject ID="3843">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>Praleechka</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="5500">
+				<Type>Missile</Type>
+				<Name>5V55R</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>44</Parent>
+			</SecondaryObject>
+			<ParentObject ID="44">
+				<Type>SAM/AAA</Type>
+				<Name>SA-10 Grumble (LN)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM SA-10</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>3709.16</Time>
+			<PrimaryObject ID="3843">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Pilot>Praleechka</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #008</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="44">
+				<Type>SAM/AAA</Type>
+				<Name>SA-10 Grumble (LN)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>SAM SA-10</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3710.48</Time>
+			<PrimaryObject ID="3461">
+				<Type>Helicopter</Type>
+				<Name>Mi-8MT Hip</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>logistic1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>52</Occurrences>
+			<SecondaryObject ID="5611">
+				<Type>Shell</Type>
+				<Name>weapons.shells.YakB_12_7_T</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3461</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3739.81</Time>
+			<PrimaryObject ID="3461">
+				<Type>Helicopter</Type>
+				<Name>Mi-8MT Hip</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>logistic1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>37</Occurrences>
+			<SecondaryObject ID="5974">
+				<Type>Shell</Type>
+				<Name>weapons.shells.YakB_12_7_T</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3461</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3751.38</Time>
+			<PrimaryObject ID="3461">
+				<Type>Helicopter</Type>
+				<Name>Mi-8MT Hip</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>logistic1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>12</Occurrences>
+			<SecondaryObject ID="6155">
+				<Type>Shell</Type>
+				<Name>weapons.shells.YakB_12_7</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3461</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3765.04</Time>
+			<PrimaryObject ID="3461">
+				<Type>Helicopter</Type>
+				<Name>Mi-8MT Hip</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>logistic1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>53</Occurrences>
+			<SecondaryObject ID="6183">
+				<Type>Shell</Type>
+				<Name>weapons.shells.YakB_12_7</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Parent>3461</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3774.30</Time>
+			<PrimaryObject ID="2275">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>3774.30</Time>
+			<PrimaryObject ID="3461">
+				<Type>Helicopter</Type>
+				<Name>Mi-8MT Hip</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>logistic1</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>3774.30</Time>
+			<PrimaryObject ID="4285">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Pilot>x2nax</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>ge</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+	</Events>
+</TacviewDebriefing>

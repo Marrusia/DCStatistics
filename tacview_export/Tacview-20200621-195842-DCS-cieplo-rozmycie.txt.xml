@@ -1,0 +1,3549 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<TacviewDebriefing Version="1.2.6">
+	<!--Flight Recording Properties-->
+	<FlightRecording>
+		<Source>DCS 2.5.6.50979</Source>
+		<Recorder>DCS2ACMI 1.8.2</Recorder>
+		<RecordingTime>2020-06-21T17:58:42.413Z</RecordingTime>
+		<Author>server</Author>
+	</FlightRecording>
+	<!--Mission Properties-->
+	<Mission>
+		<Title>cieplo-rozmycie</Title>
+		<MissionTime>2020-06-21T01:30:00Z</MissionTime>
+		<Duration>6600.86</Duration>
+		<Comments>Komunikacja
+Kanał wspólny dla wszystkich jednostek - 125 MHz AM
+DEAD/STRIKE - 305 MHz AM
+Anti ship - 306 MHz AM
+CAP - 270 MHz AM</Comments>
+	</Mission>
+	<!--Flight Log-->
+	<Events>
+		<Event>
+			<Time>65.57</Time>
+			<PrimaryObject ID="125">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>81.68</Time>
+			<PrimaryObject ID="126">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>110.51</Time>
+			<PrimaryObject ID="127">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>137.29</Time>
+			<PrimaryObject ID="128">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Rb-04A</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>329.94</Time>
+			<PrimaryObject ID="126">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>334.37</Time>
+			<PrimaryObject ID="129">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>sparrow</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<SecondaryObject ID="7">
+				<Type>Carrier</Type>
+				<Name>CVN-74 John Stennis</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>carrier</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>471.63</Time>
+			<PrimaryObject ID="130">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>Norek</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<SecondaryObject ID="7">
+				<Type>Carrier</Type>
+				<Name>CVN-74 John Stennis</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>carrier</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>495.19</Time>
+			<PrimaryObject ID="131">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>869.49</Time>
+			<PrimaryObject ID="125">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>876.00</Time>
+			<PrimaryObject ID="132">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen SB71HD</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>889.57</Time>
+			<PrimaryObject ID="128">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Rb-04A</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>891.79</Time>
+			<PrimaryObject ID="133">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen SB71HD</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>1008.14</Time>
+			<PrimaryObject ID="130">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>Norek</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1117.08</Time>
+			<PrimaryObject ID="134">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>Norek</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<SecondaryObject ID="7">
+				<Type>Carrier</Type>
+				<Name>CVN-74 John Stennis</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>carrier</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1297.51</Time>
+			<PrimaryObject ID="132">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen SB71HD</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>1299.83</Time>
+			<PrimaryObject ID="131">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>1299.89</Time>
+			<PrimaryObject ID="133">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen SB71HD</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>1304.10</Time>
+			<PrimaryObject ID="127">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>1309.99</Time>
+			<PrimaryObject ID="129">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>sparrow</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+			<SecondaryObject ID="7">
+				<Type>Carrier</Type>
+				<Name>CVN-74 John Stennis</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>carrier</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1325.67</Time>
+			<PrimaryObject ID="134">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>Norek</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+			<SecondaryObject ID="7">
+				<Type>Carrier</Type>
+				<Name>CVN-74 John Stennis</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>carrier</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1495.21</Time>
+			<PrimaryObject ID="127">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</PrimaryObject>
+			<Action>HasLanded</Action>
+		</Event>
+		<Event>
+			<Time>1514.32</Time>
+			<PrimaryObject ID="127">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>1628.34</Time>
+			<PrimaryObject ID="129">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>sparrow</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1654.35</Time>
+			<PrimaryObject ID="138">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>us</Country>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>1654.40</Time>
+			<PrimaryObject ID="139">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>us</Country>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>1686.13</Time>
+			<PrimaryObject ID="140">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>sparrow</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<SecondaryObject ID="7">
+				<Type>Carrier</Type>
+				<Name>CVN-74 John Stennis</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>carrier</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1720.57</Time>
+			<PrimaryObject ID="140">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>sparrow</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+			<SecondaryObject ID="7">
+				<Type>Carrier</Type>
+				<Name>CVN-74 John Stennis</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>carrier</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1864.09</Time>
+			<PrimaryObject ID="19">
+				<Type>Aircraft</Type>
+				<Name>MiG-29S Fulcrum-C</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Mig29</Group>
+			</PrimaryObject>
+			<Action>HasLanded</Action>
+			<Airport ID="ICAO:URKK">
+				<Name>Krasnodar-Pashkovsky</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>1867.03</Time>
+			<PrimaryObject ID="18">
+				<Type>Aircraft</Type>
+				<Name>MiG-29S Fulcrum-C</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Mig29</Group>
+			</PrimaryObject>
+			<Action>HasLanded</Action>
+			<Airport ID="ICAO:URKK">
+				<Name>Krasnodar-Pashkovsky</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>1955.70</Time>
+			<PrimaryObject ID="139">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>us</Country>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1958.05</Time>
+			<PrimaryObject ID="138">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>us</Country>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2092.76</Time>
+			<PrimaryObject ID="36">
+				<Type>SAM/AAA</Type>
+				<Name>S_75M_Volhov</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #004</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="149">
+				<Type>Missile</Type>
+				<Name>SA2V755</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2096.11</Time>
+			<PrimaryObject ID="33">
+				<Type>SAM/AAA</Type>
+				<Name>S_75M_Volhov</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #004</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="150">
+				<Type>Missile</Type>
+				<Name>SA2V755</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>33</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2138.19</Time>
+			<PrimaryObject ID="150">
+				<Type>Missile</Type>
+				<Name>SA2V755</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>33</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2138.84</Time>
+			<PrimaryObject ID="149">
+				<Type>Missile</Type>
+				<Name>SA2V755</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>36</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2164.30</Time>
+			<PrimaryObject ID="190">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Mig-21-2-Maykop</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<Airport ID="ICAO:URKH">
+				<Name>Maykop-Khanskaya</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>2164.30</Time>
+			<PrimaryObject ID="189">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Mig-21-2-Maykop</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<Airport ID="ICAO:URKH">
+				<Name>Maykop-Khanskaya</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>2164.30</Time>
+			<PrimaryObject ID="188">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Mig-21-2-Maykop</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<Airport ID="ICAO:URKH">
+				<Name>Maykop-Khanskaya</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>2164.30</Time>
+			<PrimaryObject ID="187">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Mig-21-2-Maykop</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<Airport ID="ICAO:URKH">
+				<Name>Maykop-Khanskaya</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>2164.30</Time>
+			<PrimaryObject ID="186">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>target-sochi</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<Airport ID="ICAO:URSS">
+				<Name>Sochi-Adler</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>2164.30</Time>
+			<PrimaryObject ID="185">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>target-sochi</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<Airport ID="ICAO:URSS">
+				<Name>Sochi-Adler</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>2164.30</Time>
+			<PrimaryObject ID="184">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>target-sochi</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<Airport ID="ICAO:URSS">
+				<Name>Sochi-Adler</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>2164.30</Time>
+			<PrimaryObject ID="183">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>target-sochi</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<Airport ID="ICAO:URSS">
+				<Name>Sochi-Adler</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>2201.44</Time>
+			<PrimaryObject ID="50">
+				<Type>SAM/AAA</Type>
+				<Name>S_75M_Volhov</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #005</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="195">
+				<Type>Missile</Type>
+				<Name>SA2V755</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>50</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2232.95</Time>
+			<PrimaryObject ID="103">
+				<Type>SAM/AAA</Type>
+				<Name>SA-3 Goa (LN)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #014</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="202">
+				<Type>Missile</Type>
+				<Name>5V27</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>103</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2242.57</Time>
+			<PrimaryObject ID="133">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen SB71HD</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="202">
+				<Type>Missile</Type>
+				<Name>5V27</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>103</Parent>
+			</SecondaryObject>
+			<ParentObject ID="103">
+				<Type>SAM/AAA</Type>
+				<Name>SA-3 Goa (LN)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #014</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2242.57</Time>
+			<PrimaryObject ID="133">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen SB71HD</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="103">
+				<Type>SAM/AAA</Type>
+				<Name>SA-3 Goa (LN)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #014</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2242.68</Time>
+			<PrimaryObject ID="208">
+				<Type>Bomb</Type>
+				<Name>Bomb</Name>
+				<Coalition>Neutral</Coalition>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>2243.53</Time>
+			<PrimaryObject ID="195">
+				<Type>Missile</Type>
+				<Name>SA2V755</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>50</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2296.25</Time>
+			<PrimaryObject ID="105">
+				<Type>SAM/AAA</Type>
+				<Name>SA-3 Goa (LN)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #014</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="215">
+				<Type>Missile</Type>
+				<Name>5V27</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>105</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2298.28</Time>
+			<PrimaryObject ID="215">
+				<Type>Missile</Type>
+				<Name>5V27</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>105</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2330.62</Time>
+			<PrimaryObject ID="132">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen SB71HD</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>16</Occurrences>
+			<SecondaryObject ID="216">
+				<Type>Bomb</Type>
+				<Name>SB M/71 High-Drag</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Parent>132</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2335.07</Time>
+			<PrimaryObject ID="26">
+				<Type>Car</Type>
+				<Name>Ural-375</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #002</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>8</Occurrences>
+			<SecondaryObject ID="217">
+				<Type>Bomb</Type>
+				<Name>SB M/71 High-Drag</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Parent>132</Parent>
+			</SecondaryObject>
+			<ParentObject ID="132">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen SB71HD</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2335.78</Time>
+			<PrimaryObject ID="98">
+				<Type>SAM/AAA</Type>
+				<Name>ZU-23-2</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #010</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2335.83</Time>
+			<PrimaryObject ID="23">
+				<Type>Car</Type>
+				<Name>Ural-375</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #002</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="132">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen SB71HD</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2335.99</Time>
+			<PrimaryObject ID="23">
+				<Type>Car</Type>
+				<Name>Ural-375</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #002</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>4</Occurrences>
+			<SecondaryObject ID="228">
+				<Type>Bomb</Type>
+				<Name>SB M/71 High-Drag</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Parent>132</Parent>
+			</SecondaryObject>
+			<ParentObject ID="132">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen SB71HD</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2336.31</Time>
+			<PrimaryObject ID="24">
+				<Type>Car</Type>
+				<Name>Ural-375</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #002</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="132">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen SB71HD</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2336.98</Time>
+			<PrimaryObject ID="24">
+				<Type>Car</Type>
+				<Name>Ural-375</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #002</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="227">
+				<Type>Bomb</Type>
+				<Name>SB M/71 High-Drag</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Parent>132</Parent>
+			</SecondaryObject>
+			<ParentObject ID="132">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen SB71HD</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2337.36</Time>
+			<PrimaryObject ID="10">
+				<Type>Aircraft</Type>
+				<Name>Su-25T Frogfoot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>target-sochi #001</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>2</Occurrences>
+			<SecondaryObject ID="231">
+				<Type>Bomb</Type>
+				<Name>SB M/71 High-Drag</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Parent>132</Parent>
+			</SecondaryObject>
+			<ParentObject ID="132">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen SB71HD</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2338.05</Time>
+			<PrimaryObject ID="30">
+				<Type>Car</Type>
+				<Name>Ural-375</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #003</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="230">
+				<Type>Bomb</Type>
+				<Name>SB M/71 High-Drag</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Parent>132</Parent>
+			</SecondaryObject>
+			<ParentObject ID="132">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen SB71HD</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2369.82</Time>
+			<PrimaryObject ID="250">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>2373.58</Time>
+			<PrimaryObject ID="183">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>target-sochi</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+			<Airport ID="ICAO:URSS">
+				<Name>Sochi-Adler</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>2398.42</Time>
+			<PrimaryObject ID="184">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>target-sochi</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+			<Airport ID="ICAO:URSS">
+				<Name>Sochi-Adler</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>2424.07</Time>
+			<PrimaryObject ID="185">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>target-sochi</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+			<Airport ID="ICAO:URSS">
+				<Name>Sochi-Adler</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>2448.90</Time>
+			<PrimaryObject ID="186">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>target-sochi</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+			<Airport ID="ICAO:URSS">
+				<Name>Sochi-Adler</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>2464.60</Time>
+			<PrimaryObject ID="255">
+				<Type>Aircraft</Type>
+				<Name>Tu-160</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Tu-160 Maykop</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<Airport ID="ICAO:URKH">
+				<Name>Maykop-Khanskaya</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>2464.60</Time>
+			<PrimaryObject ID="254">
+				<Type>Aircraft</Type>
+				<Name>MiG-29A Fulcrum-A</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Mig29-4-Maykop</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<Airport ID="ICAO:URKH">
+				<Name>Maykop-Khanskaya</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>2464.60</Time>
+			<PrimaryObject ID="253">
+				<Type>Aircraft</Type>
+				<Name>MiG-29A Fulcrum-A</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Mig29-4-Maykop</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<Airport ID="ICAO:URKH">
+				<Name>Maykop-Khanskaya</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>2464.60</Time>
+			<PrimaryObject ID="252">
+				<Type>Aircraft</Type>
+				<Name>MiG-29A Fulcrum-A</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Mig29-4-Maykop</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<Airport ID="ICAO:URKH">
+				<Name>Maykop-Khanskaya</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>2464.60</Time>
+			<PrimaryObject ID="251">
+				<Type>Aircraft</Type>
+				<Name>MiG-29A Fulcrum-A</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Mig29-4-Maykop</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<Airport ID="ICAO:URKH">
+				<Name>Maykop-Khanskaya</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>2465.01</Time>
+			<PrimaryObject ID="105">
+				<Type>SAM/AAA</Type>
+				<Name>SA-3 Goa (LN)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #014</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="256">
+				<Type>Missile</Type>
+				<Name>5V27</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>105</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2481.00</Time>
+			<PrimaryObject ID="105">
+				<Type>SAM/AAA</Type>
+				<Name>SA-3 Goa (LN)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #014</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="257">
+				<Type>Missile</Type>
+				<Name>5V27</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>105</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2482.88</Time>
+			<PrimaryObject ID="131">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="256">
+				<Type>Missile</Type>
+				<Name>5V27</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>105</Parent>
+			</SecondaryObject>
+			<ParentObject ID="105">
+				<Type>SAM/AAA</Type>
+				<Name>SA-3 Goa (LN)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #014</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2482.88</Time>
+			<PrimaryObject ID="131">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="105">
+				<Type>SAM/AAA</Type>
+				<Name>SA-3 Goa (LN)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #014</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2483.02</Time>
+			<PrimaryObject ID="257">
+				<Type>Missile</Type>
+				<Name>5V27</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>105</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2518.54</Time>
+			<PrimaryObject ID="265">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>2536.52</Time>
+			<PrimaryObject ID="127">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="266">
+				<Type>Missile</Type>
+				<Name>BK90 MJ1</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Parent>127</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2537.67</Time>
+			<PrimaryObject ID="127">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="267">
+				<Type>Missile</Type>
+				<Name>BK90 MJ1</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Parent>127</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2538.71</Time>
+			<PrimaryObject ID="127">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="266">
+				<Type>Missile</Type>
+				<Name>BK90 MJ1</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Parent>127</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2539.97</Time>
+			<PrimaryObject ID="127">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="267">
+				<Type>Missile</Type>
+				<Name>BK90 MJ1</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Parent>127</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2546.91</Time>
+			<PrimaryObject ID="187">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Mig-21-2-Maykop</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+			<Airport ID="ICAO:URKH">
+				<Name>Maykop-Khanskaya</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>2570.35</Time>
+			<PrimaryObject ID="188">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Mig-21-2-Maykop</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+			<Airport ID="ICAO:URKH">
+				<Name>Maykop-Khanskaya</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>2579.65</Time>
+			<PrimaryObject ID="106">
+				<Type>SAM/AAA</Type>
+				<Name>SA-3 Goa (LN)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #014</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="268">
+				<Type>Missile</Type>
+				<Name>5V27</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>106</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2581.67</Time>
+			<PrimaryObject ID="268">
+				<Type>Missile</Type>
+				<Name>5V27</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>106</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2593.44</Time>
+			<PrimaryObject ID="189">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Mig-21-2-Maykop</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+			<Airport ID="ICAO:URKH">
+				<Name>Maykop-Khanskaya</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>2605.18</Time>
+			<PrimaryObject ID="250">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>2617.64</Time>
+			<PrimaryObject ID="190">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Mig-21-2-Maykop</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+			<Airport ID="ICAO:URKH">
+				<Name>Maykop-Khanskaya</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>2619.30</Time>
+			<PrimaryObject ID="265">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>2620.68</Time>
+			<PrimaryObject ID="103">
+				<Type>SAM/AAA</Type>
+				<Name>SA-3 Goa (LN)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #014</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="269">
+				<Type>Missile</Type>
+				<Name>5V27</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>103</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2624.72</Time>
+			<PrimaryObject ID="269">
+				<Type>Missile</Type>
+				<Name>5V27</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>103</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2677.44</Time>
+			<PrimaryObject ID="134">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>Norek</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="270">
+				<Type>Missile</Type>
+				<Name>AIM-54C Phoenix</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>134</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2716.15</Time>
+			<PrimaryObject ID="134">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>Norek</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="317">
+				<Type>Missile</Type>
+				<Name>AIM-54A Phoenix</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>134</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2723.67</Time>
+			<PrimaryObject ID="183">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>target-sochi</Group>
+			</PrimaryObject>
+			<Action>HasLanded</Action>
+		</Event>
+		<Event>
+			<Time>2723.83</Time>
+			<PrimaryObject ID="134">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>Norek</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="323">
+				<Type>Missile</Type>
+				<Name>AIM-54A Phoenix</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>134</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2727.63</Time>
+			<PrimaryObject ID="134">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>Norek</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="326">
+				<Type>Missile</Type>
+				<Name>AIM-54A Phoenix</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>134</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2762.80</Time>
+			<PrimaryObject ID="134">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>Norek</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>19</Occurrences>
+			<SecondaryObject ID="336">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M56A3_HE_RED</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>134</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2768.48</Time>
+			<PrimaryObject ID="184">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>target-sochi</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="317">
+				<Type>Missile</Type>
+				<Name>AIM-54A Phoenix</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>134</Parent>
+			</SecondaryObject>
+			<ParentObject ID="134">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>Norek</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2768.48</Time>
+			<PrimaryObject ID="184">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>target-sochi</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="134">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>Norek</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2778.02</Time>
+			<PrimaryObject ID="323">
+				<Type>Missile</Type>
+				<Name>AIM-54A Phoenix</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>134</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2780.04</Time>
+			<PrimaryObject ID="326">
+				<Type>Missile</Type>
+				<Name>AIM-54A Phoenix</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>134</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2794.88</Time>
+			<PrimaryObject ID="270">
+				<Type>Missile</Type>
+				<Name>AIM-54C Phoenix</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>134</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2813.20</Time>
+			<PrimaryObject ID="106">
+				<Type>SAM/AAA</Type>
+				<Name>SA-3 Goa (LN)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #014</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="360">
+				<Type>Missile</Type>
+				<Name>5V27</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>106</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2827.63</Time>
+			<PrimaryObject ID="255">
+				<Type>Aircraft</Type>
+				<Name>Tu-160</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Tu-160 Maykop</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+			<Airport ID="ICAO:URKH">
+				<Name>Maykop-Khanskaya</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>2828.40</Time>
+			<PrimaryObject ID="134">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>Norek</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2831.26</Time>
+			<PrimaryObject ID="360">
+				<Type>Missile</Type>
+				<Name>5V27</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>106</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2834.50</Time>
+			<PrimaryObject ID="376">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>us</Country>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>2834.60</Time>
+			<PrimaryObject ID="377">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>us</Country>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>2857.44</Time>
+			<PrimaryObject ID="388">
+				<Type>Missile</Type>
+				<Name>Missile</Name>
+				<Coalition>Neutral</Coalition>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<Airport ID="ICAO:UGSS">
+				<Name>Sukhumi-Babushara</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>2857.44</Time>
+			<PrimaryObject ID="387">
+				<Type>Bomb</Type>
+				<Name>Bomb</Name>
+				<Coalition>Neutral</Coalition>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<Airport ID="ICAO:UGSS">
+				<Name>Sukhumi-Babushara</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>2859.97</Time>
+			<PrimaryObject ID="132">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen SB71HD</Group>
+			</PrimaryObject>
+			<Action>HasLanded</Action>
+			<Airport ID="ICAO:UGSS">
+				<Name>Sukhumi-Babushara</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>2866.83</Time>
+			<PrimaryObject ID="395">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>Norek</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<SecondaryObject ID="7">
+				<Type>Carrier</Type>
+				<Name>CVN-74 John Stennis</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>carrier</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2871.44</Time>
+			<PrimaryObject ID="132">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen SB71HD</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2876.73</Time>
+			<PrimaryObject ID="396">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>2964.75</Time>
+			<PrimaryObject ID="396">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</PrimaryObject>
+			<Action>HasLeftTheArea</Action>
+		</Event>
+		<Event>
+			<Time>2971.81</Time>
+			<PrimaryObject ID="397">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen SB71HD</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>2973.10</Time>
+			<PrimaryObject ID="395">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>Norek</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+			<SecondaryObject ID="7">
+				<Type>Carrier</Type>
+				<Name>CVN-74 John Stennis</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>carrier</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2977.10</Time>
+			<PrimaryObject ID="185">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>target-sochi</Group>
+			</PrimaryObject>
+			<Action>HasLanded</Action>
+		</Event>
+		<Event>
+			<Time>3043.15</Time>
+			<PrimaryObject ID="104">
+				<Type>SAM/AAA</Type>
+				<Name>SA-3 Goa (LN)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #014</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="398">
+				<Type>Missile</Type>
+				<Name>5V27</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>104</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3050.78</Time>
+			<PrimaryObject ID="395">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>Norek</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>3066.67</Time>
+			<PrimaryObject ID="104">
+				<Type>SAM/AAA</Type>
+				<Name>SA-3 Goa (LN)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #014</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="399">
+				<Type>Missile</Type>
+				<Name>5V27</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>104</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3070.78</Time>
+			<PrimaryObject ID="399">
+				<Type>Missile</Type>
+				<Name>5V27</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>104</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>3071.68</Time>
+			<PrimaryObject ID="140">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>sparrow</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="398">
+				<Type>Missile</Type>
+				<Name>5V27</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>104</Parent>
+			</SecondaryObject>
+			<ParentObject ID="104">
+				<Type>SAM/AAA</Type>
+				<Name>SA-3 Goa (LN)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #014</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>3071.68</Time>
+			<PrimaryObject ID="140">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>sparrow</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="104">
+				<Type>SAM/AAA</Type>
+				<Name>SA-3 Goa (LN)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #014</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3078.48</Time>
+			<PrimaryObject ID="409">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>us</Country>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>3078.55</Time>
+			<PrimaryObject ID="410">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>us</Country>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>3094.23</Time>
+			<PrimaryObject ID="397">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen SB71HD</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>3094.41</Time>
+			<PrimaryObject ID="103">
+				<Type>SAM/AAA</Type>
+				<Name>SA-3 Goa (LN)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #014</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="426">
+				<Type>Missile</Type>
+				<Name>5V27</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>103</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3094.85</Time>
+			<PrimaryObject ID="427">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>sparrow</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<SecondaryObject ID="7">
+				<Type>Carrier</Type>
+				<Name>CVN-74 John Stennis</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>carrier</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3100.45</Time>
+			<PrimaryObject ID="426">
+				<Type>Missile</Type>
+				<Name>5V27</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>103</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>3106.10</Time>
+			<PrimaryObject ID="127">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</PrimaryObject>
+			<Action>HasLanded</Action>
+			<Airport ID="ICAO:UGSS">
+				<Name>Sukhumi-Babushara</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>3111.44</Time>
+			<PrimaryObject ID="250">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="428">
+				<Type>Missile</Type>
+				<Name>BK90 MJ1</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Parent>250</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3112.42</Time>
+			<PrimaryObject ID="250">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="429">
+				<Type>Missile</Type>
+				<Name>BK90 MJ1</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Parent>250</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3126.35</Time>
+			<PrimaryObject ID="427">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>sparrow</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+			<SecondaryObject ID="7">
+				<Type>Carrier</Type>
+				<Name>CVN-74 John Stennis</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>carrier</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3130.46</Time>
+			<PrimaryObject ID="186">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>target-sochi</Group>
+			</PrimaryObject>
+			<Action>HasLanded</Action>
+		</Event>
+		<Event>
+			<Time>3140.58</Time>
+			<PrimaryObject ID="430">
+				<Type>Bomb</Type>
+				<Name>BK90 MJ1 (cluster)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>3140.58</Time>
+			<PrimaryObject ID="430">
+				<Type>Bomb</Type>
+				<Name>BK90 MJ1 (cluster)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="429">
+				<Type>Missile</Type>
+				<Name>BK90 MJ1</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Parent>250</Parent>
+			</SecondaryObject>
+			<ParentObject ID="250">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>3141.14</Time>
+			<PrimaryObject ID="431">
+				<Type>Bomb</Type>
+				<Name>BK90 MJ1 (cluster)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>3141.14</Time>
+			<PrimaryObject ID="431">
+				<Type>Bomb</Type>
+				<Name>BK90 MJ1 (cluster)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="428">
+				<Type>Missile</Type>
+				<Name>BK90 MJ1</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Parent>250</Parent>
+			</SecondaryObject>
+			<ParentObject ID="250">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>3144.62</Time>
+			<PrimaryObject ID="432">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>Norek</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<SecondaryObject ID="7">
+				<Type>Carrier</Type>
+				<Name>CVN-74 John Stennis</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>carrier</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3150.86</Time>
+			<PrimaryObject ID="106">
+				<Type>SAM/AAA</Type>
+				<Name>SA-3 Goa (LN)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #014</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>3150.97</Time>
+			<PrimaryObject ID="105">
+				<Type>SAM/AAA</Type>
+				<Name>SA-3 Goa (LN)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #014</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>3151.42</Time>
+			<PrimaryObject ID="103">
+				<Type>SAM/AAA</Type>
+				<Name>SA-3 Goa (LN)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #014</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>3151.52</Time>
+			<PrimaryObject ID="108">
+				<Type>Car</Type>
+				<Name>SKP-11</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #014</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>3151.52</Time>
+			<PrimaryObject ID="109">
+				<Type>Car</Type>
+				<Name>ZIL-131 APA-80</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #014</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>3151.80</Time>
+			<PrimaryObject ID="103">
+				<Type>SAM/AAA</Type>
+				<Name>SA-3 Goa (LN)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #014</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="431">
+				<Type>Bomb</Type>
+				<Name>BK90 MJ1 (cluster)</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3151.89</Time>
+			<PrimaryObject ID="104">
+				<Type>SAM/AAA</Type>
+				<Name>SA-3 Goa (LN)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Vehicle Group #014</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>3231.99</Time>
+			<PrimaryObject ID="432">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>Norek</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+			<SecondaryObject ID="7">
+				<Type>Carrier</Type>
+				<Name>CVN-74 John Stennis</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>carrier</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3380.55</Time>
+			<PrimaryObject ID="434">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen SB71HD</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>3514.49</Time>
+			<PrimaryObject ID="127">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</PrimaryObject>
+			<Action>HasLeftTheArea</Action>
+		</Event>
+		<Event>
+			<Time>3521.83</Time>
+			<PrimaryObject ID="435">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Rb-04A</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>3562.23</Time>
+			<PrimaryObject ID="434">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen SB71HD</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>3567.22</Time>
+			<PrimaryObject ID="436">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Rb-04A</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>3661.67</Time>
+			<PrimaryObject ID="427">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>sparrow</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="437">
+				<Type>Missile</Type>
+				<Name>AIM-54A Phoenix</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>427</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3742.74</Time>
+			<PrimaryObject ID="377">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>us</Country>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>3745.38</Time>
+			<PrimaryObject ID="376">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>us</Country>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>3768.30</Time>
+			<PrimaryObject ID="250">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</PrimaryObject>
+			<Action>HasLanded</Action>
+			<Airport ID="ICAO:UGSS">
+				<Name>Sukhumi-Babushara</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>3775.62</Time>
+			<PrimaryObject ID="255">
+				<Type>Aircraft</Type>
+				<Name>Tu-160</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Tu-160 Maykop</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>3865.14</Time>
+			<PrimaryObject ID="437">
+				<Type>Missile</Type>
+				<Name>AIM-54A Phoenix</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>427</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>3961.09</Time>
+			<PrimaryObject ID="265">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</PrimaryObject>
+			<Action>HasLanded</Action>
+			<Airport ID="ICAO:UGSS">
+				<Name>Sukhumi-Babushara</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>4017.52</Time>
+			<PrimaryObject ID="250">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</PrimaryObject>
+			<Action>HasLeftTheArea</Action>
+		</Event>
+		<Event>
+			<Time>4021.51</Time>
+			<PrimaryObject ID="455">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Rb-04A</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>4065.69</Time>
+			<PrimaryObject ID="265">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>4067.81</Time>
+			<PrimaryObject ID="462">
+				<Type>Missile</Type>
+				<Name>Missile</Name>
+				<Coalition>Neutral</Coalition>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>4067.82</Time>
+			<PrimaryObject ID="469">
+				<Type>Missile</Type>
+				<Name>BK90 MJ1</Name>
+				<Coalition>Neutral</Coalition>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>4067.82</Time>
+			<PrimaryObject ID="265">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Bk90</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>4199.34</Time>
+			<PrimaryObject ID="18">
+				<Type>Aircraft</Type>
+				<Name>MiG-29S Fulcrum-C</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Mig29</Group>
+			</PrimaryObject>
+			<Action>HasLeftTheArea</Action>
+		</Event>
+		<Event>
+			<Time>4199.34</Time>
+			<PrimaryObject ID="19">
+				<Type>Aircraft</Type>
+				<Name>MiG-29S Fulcrum-C</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Mig29</Group>
+			</PrimaryObject>
+			<Action>HasLeftTheArea</Action>
+		</Event>
+		<Event>
+			<Time>4256.02</Time>
+			<PrimaryObject ID="455">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Rb-04A</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>4257.62</Time>
+			<PrimaryObject ID="435">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Rb-04A</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>4260.11</Time>
+			<PrimaryObject ID="436">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Rb-04A</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>4757.57</Time>
+			<PrimaryObject ID="427">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>sparrow</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="481">
+				<Type>Missile</Type>
+				<Name>AIM-54A Phoenix</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>427</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>4809.27</Time>
+			<PrimaryObject ID="190">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Mig-21-2-Maykop</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="481">
+				<Type>Missile</Type>
+				<Name>AIM-54A Phoenix</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>427</Parent>
+			</SecondaryObject>
+			<ParentObject ID="427">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>sparrow</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>4809.27</Time>
+			<PrimaryObject ID="190">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Mig-21-2-Maykop</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="427">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>sparrow</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>4901.64</Time>
+			<PrimaryObject ID="427">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>sparrow</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>6</Occurrences>
+			<SecondaryObject ID="578">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M56A3_HE_RED</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>427</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>4939.88</Time>
+			<PrimaryObject ID="427">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>sparrow</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>9</Occurrences>
+			<SecondaryObject ID="584">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M56A3_HE_RED</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>427</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>4959.46</Time>
+			<PrimaryObject ID="427">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>sparrow</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>6</Occurrences>
+			<SecondaryObject ID="593">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M56A3_HE_RED</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>427</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>4980.22</Time>
+			<PrimaryObject ID="432">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>Norek</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>229</Occurrences>
+			<SecondaryObject ID="627">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M56A3_HE_RED</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>432</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>4984.26</Time>
+			<PrimaryObject ID="251">
+				<Type>Aircraft</Type>
+				<Name>MiG-29A Fulcrum-A</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Mig29-4-Maykop</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>67</Occurrences>
+			<SecondaryObject ID="633">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M53_APT_RED</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>432</Parent>
+			</SecondaryObject>
+			<ParentObject ID="432">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>Norek</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>4984.26</Time>
+			<PrimaryObject ID="253">
+				<Type>Aircraft</Type>
+				<Name>MiG-29A Fulcrum-A</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Mig29-4-Maykop</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>52</Occurrences>
+			<SecondaryObject ID="650">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M56A3_HE_RED</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>432</Parent>
+			</SecondaryObject>
+			<ParentObject ID="432">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>Norek</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>4984.31</Time>
+			<PrimaryObject ID="252">
+				<Type>Aircraft</Type>
+				<Name>MiG-29A Fulcrum-A</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Mig29-4-Maykop</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>26</Occurrences>
+			<SecondaryObject ID="632">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M56A3_HE_RED</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>432</Parent>
+			</SecondaryObject>
+			<ParentObject ID="432">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>Norek</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>4984.77</Time>
+			<PrimaryObject ID="254">
+				<Type>Aircraft</Type>
+				<Name>MiG-29A Fulcrum-A</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Mig29-4-Maykop</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>30</Occurrences>
+			<SecondaryObject ID="715">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M56A3_HE_RED</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>432</Parent>
+			</SecondaryObject>
+			<ParentObject ID="432">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>Norek</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>4990.16</Time>
+			<PrimaryObject ID="831">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>us</Country>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<Airport ID="ICAO:URKH">
+				<Name>Maykop-Khanskaya</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>4990.20</Time>
+			<PrimaryObject ID="832">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>us</Country>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+			<Airport ID="ICAO:URKH">
+				<Name>Maykop-Khanskaya</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>5021.72</Time>
+			<PrimaryObject ID="432">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>Norek</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>5026.36</Time>
+			<PrimaryObject ID="188">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Mig-21-2-Maykop</Group>
+			</PrimaryObject>
+			<Action>HasLanded</Action>
+			<Airport ID="ICAO:URKH">
+				<Name>Maykop-Khanskaya</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>5028.97</Time>
+			<PrimaryObject ID="187">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Mig-21-2-Maykop</Group>
+			</PrimaryObject>
+			<Action>HasLanded</Action>
+			<Airport ID="ICAO:URKH">
+				<Name>Maykop-Khanskaya</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>5089.04</Time>
+			<PrimaryObject ID="427">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>sparrow</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>92</Occurrences>
+			<SecondaryObject ID="878">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M56A3_HE_RED</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>427</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>5089.10</Time>
+			<PrimaryObject ID="183">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>target-sochi</Group>
+			</PrimaryObject>
+			<Action>HasLeftTheArea</Action>
+		</Event>
+		<Event>
+			<Time>5091.52</Time>
+			<PrimaryObject ID="188">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Mig-21-2-Maykop</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>38</Occurrences>
+			<SecondaryObject ID="878">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M56A3_HE_RED</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>427</Parent>
+			</SecondaryObject>
+			<ParentObject ID="427">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>sparrow</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>5207.59</Time>
+			<PrimaryObject ID="435">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Rb-04A</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="934">
+				<Type>Missile</Type>
+				<Name>Robot 04</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Parent>435</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>5213.98</Time>
+			<PrimaryObject ID="435">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Rb-04A</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="935">
+				<Type>Missile</Type>
+				<Name>Robot 04</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Parent>435</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>5218.64</Time>
+			<PrimaryObject ID="455">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Rb-04A</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="936">
+				<Type>Missile</Type>
+				<Name>Robot 04</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Parent>455</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>5258.36</Time>
+			<PrimaryObject ID="436">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Rb-04A</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="937">
+				<Type>Missile</Type>
+				<Name>Robot 04</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Parent>436</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>5260.55</Time>
+			<PrimaryObject ID="189">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Mig-21-2-Maykop</Group>
+			</PrimaryObject>
+			<Action>HasLanded</Action>
+			<Airport ID="ICAO:URKH">
+				<Name>Maykop-Khanskaya</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>5280.23</Time>
+			<PrimaryObject ID="4">
+				<Type>Ship</Type>
+				<Name>Grisha (Albatros)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>target-sea</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>237</Occurrences>
+			<SecondaryObject ID="1150">
+				<Type>Shell</Type>
+				<Name>weapons.shells.AK630_30_AP</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>4</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>5282.75</Time>
+			<PrimaryObject ID="5">
+				<Type>Ship</Type>
+				<Name>Dry Cargo Ship</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>target-sea</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>5</Occurrences>
+			<SecondaryObject ID="1150">
+				<Type>Shell</Type>
+				<Name>weapons.shells.AK630_30_AP</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>4</Parent>
+			</SecondaryObject>
+			<ParentObject ID="4">
+				<Type>Ship</Type>
+				<Name>Grisha (Albatros)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>target-sea</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>5282.91</Time>
+			<PrimaryObject ID="6">
+				<Type>Ship</Type>
+				<Name>Dry Cargo Ship</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>target-sea</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="934">
+				<Type>Missile</Type>
+				<Name>Robot 04</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Parent>435</Parent>
+			</SecondaryObject>
+			<ParentObject ID="435">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Rb-04A</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>5282.91</Time>
+			<PrimaryObject ID="6">
+				<Type>Ship</Type>
+				<Name>Dry Cargo Ship</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>target-sea</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="435">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Rb-04A</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>5288.10</Time>
+			<PrimaryObject ID="935">
+				<Type>Missile</Type>
+				<Name>Robot 04</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Parent>435</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>5296.07</Time>
+			<PrimaryObject ID="4">
+				<Type>Ship</Type>
+				<Name>Grisha (Albatros)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>target-sea</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>127</Occurrences>
+			<SecondaryObject ID="1175">
+				<Type>Shell</Type>
+				<Name>weapons.shells.AK630_30_HE</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>4</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>5329.52</Time>
+			<PrimaryObject ID="4">
+				<Type>Ship</Type>
+				<Name>Grisha (Albatros)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>target-sea</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>246</Occurrences>
+			<SecondaryObject ID="1302">
+				<Type>Shell</Type>
+				<Name>weapons.shells.AK630_30_AP</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>4</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>5332.32</Time>
+			<PrimaryObject ID="937">
+				<Type>Missile</Type>
+				<Name>Robot 04</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Parent>436</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>5343.64</Time>
+			<PrimaryObject ID="936">
+				<Type>Missile</Type>
+				<Name>Robot 04</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Parent>455</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>5344.10</Time>
+			<PrimaryObject ID="185">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>target-sochi</Group>
+			</PrimaryObject>
+			<Action>HasLeftTheArea</Action>
+		</Event>
+		<Event>
+			<Time>5441.27</Time>
+			<PrimaryObject ID="436">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Rb-04A</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1549">
+				<Type>Missile</Type>
+				<Name>Robot 04</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Parent>436</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>5499.10</Time>
+			<PrimaryObject ID="186">
+				<Type>Aircraft</Type>
+				<Name>MiG-21bis Fishbed-L/N</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>target-sochi</Group>
+			</PrimaryObject>
+			<Action>HasLeftTheArea</Action>
+		</Event>
+		<Event>
+			<Time>5508.43</Time>
+			<PrimaryObject ID="5">
+				<Type>Ship</Type>
+				<Name>Dry Cargo Ship</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>target-sea</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="1549">
+				<Type>Missile</Type>
+				<Name>Robot 04</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Parent>436</Parent>
+			</SecondaryObject>
+			<ParentObject ID="436">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Rb-04A</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>5508.43</Time>
+			<PrimaryObject ID="5">
+				<Type>Ship</Type>
+				<Name>Dry Cargo Ship</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>target-sea</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="436">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Rb-04A</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>5568.10</Time>
+			<PrimaryObject ID="4">
+				<Type>Ship</Type>
+				<Name>Grisha (Albatros)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>target-sea</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1552">
+				<Type>Missile</Type>
+				<Name>9M33</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>4</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>5570.84</Time>
+			<PrimaryObject ID="455">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Rb-04A</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1553">
+				<Type>Missile</Type>
+				<Name>Robot 04</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Parent>455</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>5572.38</Time>
+			<PrimaryObject ID="1552">
+				<Type>Missile</Type>
+				<Name>9M33</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>4</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>5573.67</Time>
+			<PrimaryObject ID="4">
+				<Type>Ship</Type>
+				<Name>Grisha (Albatros)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>target-sea</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1554">
+				<Type>Missile</Type>
+				<Name>9M33</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>4</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>5583.71</Time>
+			<PrimaryObject ID="1554">
+				<Type>Missile</Type>
+				<Name>9M33</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>4</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>5593.91</Time>
+			<PrimaryObject ID="436">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Rb-04A</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>5646.73</Time>
+			<PrimaryObject ID="4">
+				<Type>Ship</Type>
+				<Name>Grisha (Albatros)</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>target-sea</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="1553">
+				<Type>Missile</Type>
+				<Name>Robot 04</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Parent>455</Parent>
+			</SecondaryObject>
+			<ParentObject ID="455">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Rb-04A</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>5755.36</Time>
+			<PrimaryObject ID="1569">
+				<Type>Missile</Type>
+				<Name>Missile</Name>
+				<Coalition>Neutral</Coalition>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>5755.36</Time>
+			<PrimaryObject ID="1568">
+				<Type>Missile</Type>
+				<Name>Missile</Name>
+				<Coalition>Neutral</Coalition>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>5755.36</Time>
+			<PrimaryObject ID="1567">
+				<Type>Missile</Type>
+				<Name>Missile</Name>
+				<Coalition>Neutral</Coalition>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>5755.36</Time>
+			<PrimaryObject ID="1566">
+				<Type>Missile</Type>
+				<Name>Missile</Name>
+				<Coalition>Neutral</Coalition>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>6091.39</Time>
+			<PrimaryObject ID="435">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Rb-04A</Group>
+			</PrimaryObject>
+			<Action>HasLanded</Action>
+		</Event>
+		<Event>
+			<Time>6098.88</Time>
+			<PrimaryObject ID="435">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Rb-04A</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1572">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>se</Country>
+				<Parent>435</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>6156.26</Time>
+			<PrimaryObject ID="435">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Rb-04A</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>6338.36</Time>
+			<PrimaryObject ID="455">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Rb-04A</Group>
+			</PrimaryObject>
+			<Action>HasLanded</Action>
+		</Event>
+		<Event>
+			<Time>6424.67</Time>
+			<PrimaryObject ID="455">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Rb-04A</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+			<Airport ID="ICAO:UGSS">
+				<Name>Sukhumi-Babushara</Name>
+			</Airport>
+		</Event>
+		<Event>
+			<Time>6442.01</Time>
+			<PrimaryObject ID="1580">
+				<Type>Missile</Type>
+				<Name>Missile</Name>
+				<Coalition>Neutral</Coalition>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>6442.01</Time>
+			<PrimaryObject ID="1579">
+				<Type>Missile</Type>
+				<Name>Missile</Name>
+				<Coalition>Neutral</Coalition>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>6446.09</Time>
+			<PrimaryObject ID="455">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Rb-04A</Group>
+			</PrimaryObject>
+			<Action>HasLanded</Action>
+		</Event>
+		<Event>
+			<Time>6451.87</Time>
+			<PrimaryObject ID="455">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Rb-04A</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1583">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>se</Country>
+				<Parent>455</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>6463.41</Time>
+			<PrimaryObject ID="455">
+				<Type>Aircraft</Type>
+				<Name>AJS 37 Viggen</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>se</Country>
+				<Group>Viggen Rb-04A</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>6561.23</Time>
+			<PrimaryObject ID="427">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>sparrow</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1586">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>us</Country>
+				<Parent>427</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>6588.11</Time>
+			<PrimaryObject ID="1586">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>us</Country>
+				<Parent>427</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>6594.65</Time>
+			<PrimaryObject ID="427">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>sparrow</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>F14B</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+	</Events>
+</TacviewDebriefing>

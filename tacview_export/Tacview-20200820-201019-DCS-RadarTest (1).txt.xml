@@ -1,0 +1,1351 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<TacviewDebriefing Version="1.2.6">
+	<!--Flight Recording Properties-->
+	<FlightRecording>
+		<Source>DCS 2.5.6.53756</Source>
+		<Recorder>DCS2ACMI 1.8.2</Recorder>
+		<RecordingTime>2020-08-20T18:10:19.074Z</RecordingTime>
+		<Author>server</Author>
+	</FlightRecording>
+	<!--Mission Properties-->
+	<Mission>
+		<Title>RadarTest (1)</Title>
+		<MissionTime>2016-06-21T04:00:00Z</MissionTime>
+		<Duration>4574.55</Duration>
+	</Mission>
+	<!--Flight Log-->
+	<Events>
+		<Event>
+			<Time>26.40</Time>
+			<PrimaryObject ID="42">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-3</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>30.77</Time>
+			<PrimaryObject ID="43">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-3</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>32.93</Time>
+			<PrimaryObject ID="44">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-1</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>47.15</Time>
+			<PrimaryObject ID="44">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-1</Group>
+			</PrimaryObject>
+			<Action>HasLeftTheArea</Action>
+		</Event>
+		<Event>
+			<Time>55.20</Time>
+			<PrimaryObject ID="45">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-2</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>61.27</Time>
+			<PrimaryObject ID="46">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Cmdr. Ron Howard</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-2</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>66.81</Time>
+			<PrimaryObject ID="47">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-2</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>79.83</Time>
+			<PrimaryObject ID="48">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Specelino</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-1</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>105.92</Time>
+			<PrimaryObject ID="49">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-1</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>118.01</Time>
+			<PrimaryObject ID="50">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-1</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>157.57</Time>
+			<PrimaryObject ID="48">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Specelino</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-1</Group>
+			</PrimaryObject>
+			<Action>HasLeftTheArea</Action>
+		</Event>
+		<Event>
+			<Time>176.77</Time>
+			<PrimaryObject ID="51">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>Amarok73</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-4</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>239.20</Time>
+			<PrimaryObject ID="52">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Specelino</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-1</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>482.55</Time>
+			<PrimaryObject ID="45">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-2</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>485.60</Time>
+			<PrimaryObject ID="42">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-3</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>490.41</Time>
+			<PrimaryObject ID="54">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-2</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>490.41</Time>
+			<PrimaryObject ID="53">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-3</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>493.95</Time>
+			<PrimaryObject ID="54">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-2</Group>
+			</PrimaryObject>
+			<Action>HasLeftTheArea</Action>
+		</Event>
+		<Event>
+			<Time>567.44</Time>
+			<PrimaryObject ID="55">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-2</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>721.08</Time>
+			<PrimaryObject ID="43">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-3</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>726.87</Time>
+			<PrimaryObject ID="52">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Specelino</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-1</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>728.55</Time>
+			<PrimaryObject ID="50">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-1</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>730.63</Time>
+			<PrimaryObject ID="49">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-1</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>732.71</Time>
+			<PrimaryObject ID="47">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-2</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>734.34</Time>
+			<PrimaryObject ID="51">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>Amarok73</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-4</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>736.75</Time>
+			<PrimaryObject ID="46">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Cmdr. Ron Howard</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-2</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>737.83</Time>
+			<PrimaryObject ID="53">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-3</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>738.99</Time>
+			<PrimaryObject ID="55">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-2</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>1654.48</Time>
+			<PrimaryObject ID="47">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="58">
+				<Type>Bomb</Type>
+				<Name>weapons.bombs.GBU_31_V_3B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>47</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1732.86</Time>
+			<PrimaryObject ID="52">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Specelino</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>2</Occurrences>
+			<SecondaryObject ID="59">
+				<Type>Bomb</Type>
+				<Name>weapons.bombs.GBU_31_V_3B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>52</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1769.72</Time>
+			<PrimaryObject ID="47">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="61">
+				<Type>Bomb</Type>
+				<Name>weapons.bombs.GBU_31_V_3B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>47</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1771.12</Time>
+			<PrimaryObject ID="50">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="62">
+				<Type>Bomb</Type>
+				<Name>weapons.bombs.GBU_31_V_3B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>50</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1782.22</Time>
+			<PrimaryObject ID="46">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Cmdr. Ron Howard</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="63">
+				<Type>Bomb</Type>
+				<Name>weapons.bombs.GBU_31_V_3B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>46</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1788.01</Time>
+			<PrimaryObject ID="15">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>Rotary-1-3</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Rotary-1</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="47">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-2</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1788.01</Time>
+			<PrimaryObject ID="26">
+				<Type>Car</Type>
+				<Name>ATMZ-5</Name>
+				<Pilot>Ground-7-3</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Ground-7</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1788.42</Time>
+			<PrimaryObject ID="15">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>Rotary-1-3</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Rotary-1</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="58">
+				<Type>Bomb</Type>
+				<Name>weapons.bombs.GBU_31_V_3B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>47</Parent>
+			</SecondaryObject>
+			<ParentObject ID="47">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1798.74</Time>
+			<PrimaryObject ID="38">
+				<Type>Infantry</Type>
+				<Name>Infantry AK</Name>
+				<Pilot>Ground-2-6</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Ground-2</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="52">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Specelino</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-1</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1798.90</Time>
+			<PrimaryObject ID="38">
+				<Type>Infantry</Type>
+				<Name>Infantry AK</Name>
+				<Pilot>Ground-2-6</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Ground-2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="59">
+				<Type>Bomb</Type>
+				<Name>weapons.bombs.GBU_31_V_3B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>52</Parent>
+			</SecondaryObject>
+			<ParentObject ID="52">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Specelino</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1811.63</Time>
+			<PrimaryObject ID="24">
+				<Type>Car</Type>
+				<Name>SKP-11</Name>
+				<Pilot>Ground-7-1</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Ground-7</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="61">
+				<Type>Bomb</Type>
+				<Name>weapons.bombs.GBU_31_V_3B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>47</Parent>
+			</SecondaryObject>
+			<ParentObject ID="47">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1811.63</Time>
+			<PrimaryObject ID="14">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>Rotary-1-2</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Rotary-1</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1826.12</Time>
+			<PrimaryObject ID="19">
+				<Type>Tank</Type>
+				<Name>BTR-80</Name>
+				<Pilot>Ground-6-1</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Ground-6</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="62">
+				<Type>Bomb</Type>
+				<Name>weapons.bombs.GBU_31_V_3B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>50</Parent>
+			</SecondaryObject>
+			<ParentObject ID="50">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1826.52</Time>
+			<PrimaryObject ID="18">
+				<Type>Infantry</Type>
+				<Name>Infantry AK</Name>
+				<Pilot>Ground-5-1</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Ground-5</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1826.52</Time>
+			<PrimaryObject ID="19">
+				<Type>Tank</Type>
+				<Name>BTR-80</Name>
+				<Pilot>Ground-6-1</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Ground-6</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="50">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-1</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1863.43</Time>
+			<PrimaryObject ID="55">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>2</Occurrences>
+			<SecondaryObject ID="108">
+				<Type>Bomb</Type>
+				<Name>weapons.bombs.GBU_31_V_3B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>55</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1916.84</Time>
+			<PrimaryObject ID="33">
+				<Type>Infantry</Type>
+				<Name>Infantry AK</Name>
+				<Pilot>Ground-2-1</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Ground-2</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="55">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-2</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1917.11</Time>
+			<PrimaryObject ID="33">
+				<Type>Infantry</Type>
+				<Name>Infantry AK</Name>
+				<Pilot>Ground-2-1</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Ground-2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="108">
+				<Type>Bomb</Type>
+				<Name>weapons.bombs.GBU_31_V_3B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>55</Parent>
+			</SecondaryObject>
+			<ParentObject ID="55">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1943.86</Time>
+			<PrimaryObject ID="49">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="110">
+				<Type>Bomb</Type>
+				<Name>weapons.bombs.GBU_31_V_3B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>49</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1991.85</Time>
+			<PrimaryObject ID="22">
+				<Type>Tank</Type>
+				<Name>BTR-80</Name>
+				<Pilot>Ground-6-4</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Ground-6</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="110">
+				<Type>Bomb</Type>
+				<Name>weapons.bombs.GBU_31_V_3B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>49</Parent>
+			</SecondaryObject>
+			<ParentObject ID="49">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1997.23</Time>
+			<PrimaryObject ID="43">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-3</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="111">
+				<Type>Bomb</Type>
+				<Name>weapons.bombs.GBU_31_V_3B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>43</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2030.23</Time>
+			<PrimaryObject ID="50">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="112">
+				<Type>Bomb</Type>
+				<Name>weapons.bombs.GBU_31_V_3B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>50</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2072.02</Time>
+			<PrimaryObject ID="21">
+				<Type>Tank</Type>
+				<Name>BTR-80</Name>
+				<Pilot>Ground-6-3</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Ground-6</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="112">
+				<Type>Bomb</Type>
+				<Name>weapons.bombs.GBU_31_V_3B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>50</Parent>
+			</SecondaryObject>
+			<ParentObject ID="50">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2082.56</Time>
+			<PrimaryObject ID="49">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="113">
+				<Type>Bomb</Type>
+				<Name>weapons.bombs.GBU_31_V_3B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>49</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2095.05</Time>
+			<PrimaryObject ID="13">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>Rotary-1-1</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Rotary-1</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2101.61</Time>
+			<PrimaryObject ID="12">
+				<Type>Building</Type>
+				<Name>Sandbox</Name>
+				<Pilot>static</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Static Bunker 1-7</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="111">
+				<Type>Bomb</Type>
+				<Name>weapons.bombs.GBU_31_V_3B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>43</Parent>
+			</SecondaryObject>
+			<ParentObject ID="43">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-3</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2219.32</Time>
+			<PrimaryObject ID="55">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>23</Occurrences>
+			<SecondaryObject ID="116">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M61_20_HE</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>55</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2285.05</Time>
+			<PrimaryObject ID="16">
+				<Type>Helicopter</Type>
+				<Name>Ka-50 Black Shark</Name>
+				<Pilot>Rotary-1-4</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Rotary-1</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2317.73</Time>
+			<PrimaryObject ID="46">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Cmdr. Ron Howard</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="139">
+				<Type>Bomb</Type>
+				<Name>weapons.bombs.GBU_31_V_3B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>46</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2353.26</Time>
+			<PrimaryObject ID="24">
+				<Type>Car</Type>
+				<Name>SKP-11</Name>
+				<Pilot>Ground-7-1</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Ground-7</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="139">
+				<Type>Bomb</Type>
+				<Name>weapons.bombs.GBU_31_V_3B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>46</Parent>
+			</SecondaryObject>
+			<ParentObject ID="46">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Cmdr. Ron Howard</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2397.70</Time>
+			<PrimaryObject ID="52">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Specelino</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>217</Occurrences>
+			<SecondaryObject ID="140">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M61_20_HE</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>52</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2415.65</Time>
+			<PrimaryObject ID="43">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-3</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="357">
+				<Type>Bomb</Type>
+				<Name>weapons.bombs.GBU_31_V_3B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>43</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2460.44</Time>
+			<PrimaryObject ID="53">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-3</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="358">
+				<Type>Bomb</Type>
+				<Name>weapons.bombs.GBU_31_V_3B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>53</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2514.41</Time>
+			<PrimaryObject ID="37">
+				<Type>Infantry</Type>
+				<Name>Infantry AK</Name>
+				<Pilot>Ground-2-5</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Ground-2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="358">
+				<Type>Bomb</Type>
+				<Name>weapons.bombs.GBU_31_V_3B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>53</Parent>
+			</SecondaryObject>
+			<ParentObject ID="53">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-3</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2515.26</Time>
+			<PrimaryObject ID="37">
+				<Type>Infantry</Type>
+				<Name>Infantry AK</Name>
+				<Pilot>Ground-2-5</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Ground-2</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="53">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-3</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2515.89</Time>
+			<PrimaryObject ID="41">
+				<Type>Infantry</Type>
+				<Name>Infantry AK</Name>
+				<Pilot>Ground-3-1</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Ground-3</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="357">
+				<Type>Bomb</Type>
+				<Name>weapons.bombs.GBU_31_V_3B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>43</Parent>
+			</SecondaryObject>
+			<ParentObject ID="43">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-3</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2725.27</Time>
+			<PrimaryObject ID="53">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-3</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="365">
+				<Type>Bomb</Type>
+				<Name>weapons.bombs.GBU_31_V_3B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>53</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2782.33</Time>
+			<PrimaryObject ID="39">
+				<Type>Infantry</Type>
+				<Name>Infantry AK</Name>
+				<Pilot>Ground-2-7</Pilot>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>Ground-2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="365">
+				<Type>Bomb</Type>
+				<Name>weapons.bombs.GBU_31_V_3B</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>53</Parent>
+			</SecondaryObject>
+			<ParentObject ID="53">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-3</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2902.70</Time>
+			<PrimaryObject ID="55">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-2</Group>
+			</PrimaryObject>
+			<Action>HasLanded</Action>
+			<SecondaryObject ID="5">
+				<Type>Carrier</Type>
+				<Name>CVN-71 Theodore Roosevelt</Name>
+				<Pilot>Naval-1-1</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Naval-1</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3019.24</Time>
+			<PrimaryObject ID="51">
+				<Type>Aircraft</Type>
+				<Name>F-14B Tomcat</Name>
+				<Pilot>Amarok73</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-4</Group>
+			</PrimaryObject>
+			<Action>HasLanded</Action>
+			<SecondaryObject ID="5">
+				<Type>Carrier</Type>
+				<Name>CVN-71 Theodore Roosevelt</Name>
+				<Pilot>Naval-1-1</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Naval-1</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3088.22</Time>
+			<PrimaryObject ID="46">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Cmdr. Ron Howard</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-2</Group>
+			</PrimaryObject>
+			<Action>HasLanded</Action>
+			<SecondaryObject ID="5">
+				<Type>Carrier</Type>
+				<Name>CVN-71 Theodore Roosevelt</Name>
+				<Pilot>Naval-1-1</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Naval-1</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3104.50</Time>
+			<PrimaryObject ID="52">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Specelino</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>63</Occurrences>
+			<SecondaryObject ID="378">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M61_20_HE</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>52</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3928.74</Time>
+			<PrimaryObject ID="52">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Specelino</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-1</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>4012.92</Time>
+			<PrimaryObject ID="43">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Aden</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-3</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>4038.42</Time>
+			<PrimaryObject ID="53">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-3</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>4062.21</Time>
+			<PrimaryObject ID="49">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>PanAnonim</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-1</Group>
+			</PrimaryObject>
+			<Action>HasLanded</Action>
+		</Event>
+		<Event>
+			<Time>4091.35</Time>
+			<PrimaryObject ID="55">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Varios</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-2</Group>
+			</PrimaryObject>
+			<Action>HasLeftTheArea</Action>
+			<SecondaryObject ID="5">
+				<Type>Carrier</Type>
+				<Name>CVN-71 Theodore Roosevelt</Name>
+				<Pilot>Naval-1-1</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Naval-1</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>4261.29</Time>
+			<PrimaryObject ID="50">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-1</Group>
+			</PrimaryObject>
+			<Action>HasLanded</Action>
+		</Event>
+		<Event>
+			<Time>4527.74</Time>
+			<PrimaryObject ID="47">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-2</Group>
+			</PrimaryObject>
+			<Action>HasLanded</Action>
+		</Event>
+		<Event>
+			<Time>4553.66</Time>
+			<PrimaryObject ID="46">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>Cmdr. Ron Howard</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-2</Group>
+			</PrimaryObject>
+			<Action>HasLeftTheArea</Action>
+			<SecondaryObject ID="5">
+				<Type>Carrier</Type>
+				<Name>CVN-71 Theodore Roosevelt</Name>
+				<Pilot>Naval-1-1</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Naval-1</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>4566.19</Time>
+			<PrimaryObject ID="47">
+				<Type>Aircraft</Type>
+				<Name>F/A-18C Hornet</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Aerial-2</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+	</Events>
+</TacviewDebriefing>

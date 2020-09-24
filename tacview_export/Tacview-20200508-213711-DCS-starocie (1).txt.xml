@@ -1,0 +1,4877 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<TacviewDebriefing Version="1.2.6">
+	<!--Flight Recording Properties-->
+	<FlightRecording>
+		<Source>DCS 2.5.6.47404</Source>
+		<Recorder>DCS2ACMI 1.8.2</Recorder>
+		<RecordingTime>2020-05-08T19:37:11.628Z</RecordingTime>
+		<Author>server</Author>
+	</FlightRecording>
+	<!--Mission Properties-->
+	<Mission>
+		<Title>starocie (1)</Title>
+		<MissionTime>2016-06-21T04:00:00Z</MissionTime>
+		<Duration>3206.79</Duration>
+	</Mission>
+	<!--Flight Log-->
+	<Events>
+		<Event>
+			<Time>80.21</Time>
+			<PrimaryObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>108.64</Time>
+			<PrimaryObject ID="37">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>116.32</Time>
+			<PrimaryObject ID="38">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Rudolf Hess</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>116.66</Time>
+			<PrimaryObject ID="39">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>157.41</Time>
+			<PrimaryObject ID="40">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Pilot>Turambar</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>pl</Country>
+				<Group>New Airplane Group #002</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>157.43</Time>
+			<PrimaryObject ID="38">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Rudolf Hess</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasLeftTheArea</Action>
+		</Event>
+		<Event>
+			<Time>171.08</Time>
+			<PrimaryObject ID="41">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>424.25</Time>
+			<PrimaryObject ID="41">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>424.97</Time>
+			<PrimaryObject ID="39">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>428.67</Time>
+			<PrimaryObject ID="37">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>431.15</Time>
+			<PrimaryObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>448.86</Time>
+			<PrimaryObject ID="40">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Pilot>Turambar</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>pl</Country>
+				<Group>New Airplane Group #002</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>857.52</Time>
+			<PrimaryObject ID="37">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>344</Occurrences>
+			<SecondaryObject ID="337">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>37</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>860.61</Time>
+			<PrimaryObject ID="3">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #001</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>15</Occurrences>
+			<SecondaryObject ID="333">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M20_50_aero_APIT</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>37</Parent>
+			</SecondaryObject>
+			<ParentObject ID="37">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>870.48</Time>
+			<PrimaryObject ID="39">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>54</Occurrences>
+			<SecondaryObject ID="425">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>39</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>871.28</Time>
+			<PrimaryObject ID="3">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #001</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>14</Occurrences>
+			<SecondaryObject ID="425">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>39</Parent>
+			</SecondaryObject>
+			<ParentObject ID="39">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>874.04</Time>
+			<PrimaryObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>92</Occurrences>
+			<SecondaryObject ID="476">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M20_50_aero_APIT</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>874.54</Time>
+			<PrimaryObject ID="24">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="476">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M20_50_aero_APIT</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+			<ParentObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>876.60</Time>
+			<PrimaryObject ID="16">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>124</Occurrences>
+			<SecondaryObject ID="795">
+				<Type>Shell</Type>
+				<Name>weapons.shells.NR23_23x115_HEI_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>16</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>878.66</Time>
+			<PrimaryObject ID="37">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>260</Occurrences>
+			<SecondaryObject ID="685">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>37</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>880.44</Time>
+			<PrimaryObject ID="6">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #001</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>89</Occurrences>
+			<SecondaryObject ID="685">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>37</Parent>
+			</SecondaryObject>
+			<ParentObject ID="37">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>881.11</Time>
+			<PrimaryObject ID="6">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #001</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="37">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>881.84</Time>
+			<PrimaryObject ID="40">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Pilot>Turambar</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>pl</Country>
+				<Group>New Airplane Group #002</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>8</Occurrences>
+			<SecondaryObject ID="795">
+				<Type>Shell</Type>
+				<Name>weapons.shells.NR23_23x115_HEI_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>16</Parent>
+			</SecondaryObject>
+			<ParentObject ID="16">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>882.12</Time>
+			<PrimaryObject ID="37">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="896">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>ru</Country>
+				<Parent>37</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>883.12</Time>
+			<PrimaryObject ID="37">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="920">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>ru</Country>
+				<Parent>37</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>884.12</Time>
+			<PrimaryObject ID="924">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>ru</Country>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>888.12</Time>
+			<PrimaryObject ID="924">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>ru</Country>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>894.08</Time>
+			<PrimaryObject ID="37">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>74</Occurrences>
+			<SecondaryObject ID="930">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>37</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>902.80</Time>
+			<PrimaryObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>490</Occurrences>
+			<SecondaryObject ID="1137">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>908.33</Time>
+			<PrimaryObject ID="4">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #001</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>53</Occurrences>
+			<SecondaryObject ID="1137">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+			<ParentObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>911.30</Time>
+			<PrimaryObject ID="4">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #001</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>113</Occurrences>
+			<SecondaryObject ID="1282">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M20_50_aero_APIT</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+			<ParentObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>912.44</Time>
+			<PrimaryObject ID="4">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #001</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>913.44</Time>
+			<PrimaryObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1489">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>ru</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>914.44</Time>
+			<PrimaryObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1490">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>ru</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>915.44</Time>
+			<PrimaryObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="1491">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>ru</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>938.34</Time>
+			<PrimaryObject ID="39">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>60</Occurrences>
+			<SecondaryObject ID="1497">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>39</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>946.91</Time>
+			<PrimaryObject ID="39">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>126</Occurrences>
+			<SecondaryObject ID="1557">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M20_50_aero_APIT</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>39</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>971.98</Time>
+			<PrimaryObject ID="39">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>306</Occurrences>
+			<SecondaryObject ID="1787">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>39</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>973.74</Time>
+			<PrimaryObject ID="15">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>16</Occurrences>
+			<SecondaryObject ID="1787">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>39</Parent>
+			</SecondaryObject>
+			<ParentObject ID="39">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>977.48</Time>
+			<PrimaryObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>348</Occurrences>
+			<SecondaryObject ID="2062">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>979.82</Time>
+			<PrimaryObject ID="23">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="2062">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+			<ParentObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>981.44</Time>
+			<PrimaryObject ID="41">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>332</Occurrences>
+			<SecondaryObject ID="2190">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>41</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>982.32</Time>
+			<PrimaryObject ID="3">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #001</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>30</Occurrences>
+			<SecondaryObject ID="2190">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>41</Parent>
+			</SecondaryObject>
+			<ParentObject ID="41">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>983.33</Time>
+			<PrimaryObject ID="23">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>5</Occurrences>
+			<SecondaryObject ID="2333">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M20_50_aero_APIT</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+			<ParentObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>984.63</Time>
+			<PrimaryObject ID="3">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #001</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="41">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>984.93</Time>
+			<PrimaryObject ID="3">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #001</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>12</Occurrences>
+			<SecondaryObject ID="2587">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M20_50_aero_APIT</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>41</Parent>
+			</SecondaryObject>
+			<ParentObject ID="41">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>985.07</Time>
+			<PrimaryObject ID="23">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>17</Occurrences>
+			<SecondaryObject ID="2539">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M20_50_aero_APIT</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+			<ParentObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>985.64</Time>
+			<PrimaryObject ID="41">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="2616">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>ru</Country>
+				<Parent>41</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>986.64</Time>
+			<PrimaryObject ID="41">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="2718">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>ru</Country>
+				<Parent>41</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>986.64</Time>
+			<PrimaryObject ID="41">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>987.64</Time>
+			<PrimaryObject ID="41">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="2738">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>ru</Country>
+				<Parent>41</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1026.66</Time>
+			<PrimaryObject ID="23">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="2739">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>23</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1029.68</Time>
+			<PrimaryObject ID="23">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="2740">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>23</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1031.80</Time>
+			<PrimaryObject ID="15">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>10</Occurrences>
+			<SecondaryObject ID="2745">
+				<Type>Shell</Type>
+				<Name>weapons.shells.NR23_23x115_HEI_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>15</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1032.25</Time>
+			<PrimaryObject ID="37">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>3</Occurrences>
+			<SecondaryObject ID="2744">
+				<Type>Shell</Type>
+				<Name>weapons.shells.NR23_23x115_HEI_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>15</Parent>
+			</SecondaryObject>
+			<ParentObject ID="15">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1032.70</Time>
+			<PrimaryObject ID="23">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="2751">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>23</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1035.72</Time>
+			<PrimaryObject ID="23">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="2752">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>23</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1038.74</Time>
+			<PrimaryObject ID="23">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="2753">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>23</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1041.76</Time>
+			<PrimaryObject ID="23">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="2754">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>23</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1044.51</Time>
+			<PrimaryObject ID="15">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>23</Occurrences>
+			<SecondaryObject ID="2760">
+				<Type>Shell</Type>
+				<Name>weapons.shells.NR23_23x115_HEI_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>15</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1045.04</Time>
+			<PrimaryObject ID="37">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>6</Occurrences>
+			<SecondaryObject ID="2760">
+				<Type>Shell</Type>
+				<Name>weapons.shells.NR23_23x115_HEI_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>15</Parent>
+			</SecondaryObject>
+			<ParentObject ID="15">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1045.12</Time>
+			<PrimaryObject ID="37">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="15">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1052.23</Time>
+			<PrimaryObject ID="40">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Pilot>Turambar</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>pl</Country>
+				<Group>New Airplane Group #002</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="16">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1063.64</Time>
+			<PrimaryObject ID="39">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>36</Occurrences>
+			<SecondaryObject ID="2834">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>39</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1077.25</Time>
+			<PrimaryObject ID="2876">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>1082.96</Time>
+			<PrimaryObject ID="2877">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>1096.64</Time>
+			<PrimaryObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>272</Occurrences>
+			<SecondaryObject ID="2904">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M20_50_aero_APIT</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1100.31</Time>
+			<PrimaryObject ID="23">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>20</Occurrences>
+			<SecondaryObject ID="2904">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M20_50_aero_APIT</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+			<ParentObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1104.17</Time>
+			<PrimaryObject ID="23">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>4</Occurrences>
+			<SecondaryObject ID="3017">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M20_50_aero_APIT</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+			<ParentObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1105.33</Time>
+			<PrimaryObject ID="23">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>17</Occurrences>
+			<SecondaryObject ID="3062">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M20_50_aero_APIT</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+			<ParentObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1105.50</Time>
+			<PrimaryObject ID="23">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1106.50</Time>
+			<PrimaryObject ID="23">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="3144">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>ru</Country>
+				<Parent>23</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1107.50</Time>
+			<PrimaryObject ID="3151">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>ru</Country>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>1108.50</Time>
+			<PrimaryObject ID="3152">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>ru</Country>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>1150.78</Time>
+			<PrimaryObject ID="15">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>44</Occurrences>
+			<SecondaryObject ID="3155">
+				<Type>Shell</Type>
+				<Name>weapons.shells.NR23_23x115_HEI_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>15</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1156.58</Time>
+			<PrimaryObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>314</Occurrences>
+			<SecondaryObject ID="3197">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1158.30</Time>
+			<PrimaryObject ID="25">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>11</Occurrences>
+			<SecondaryObject ID="3197">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+			<ParentObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1161.04</Time>
+			<PrimaryObject ID="25">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>7</Occurrences>
+			<SecondaryObject ID="3269">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+			<ParentObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1162.53</Time>
+			<PrimaryObject ID="25">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>38</Occurrences>
+			<SecondaryObject ID="3290">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+			<ParentObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1163.88</Time>
+			<PrimaryObject ID="25">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>16</Occurrences>
+			<SecondaryObject ID="3361">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+			<ParentObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1196.40</Time>
+			<PrimaryObject ID="2876">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>1203.36</Time>
+			<PrimaryObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>44</Occurrences>
+			<SecondaryObject ID="3516">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M20_50_aero_APIT</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1221.18</Time>
+			<PrimaryObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>24</Occurrences>
+			<SecondaryObject ID="3558">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1225.53</Time>
+			<PrimaryObject ID="2877">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>1257.92</Time>
+			<PrimaryObject ID="2739">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>23</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1259.18</Time>
+			<PrimaryObject ID="2740">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>23</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1260.16</Time>
+			<PrimaryObject ID="15">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>5</Occurrences>
+			<SecondaryObject ID="3583">
+				<Type>Shell</Type>
+				<Name>weapons.shells.NR23_23x115_API</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>15</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1260.30</Time>
+			<PrimaryObject ID="2751">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>23</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1261.53</Time>
+			<PrimaryObject ID="2752">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>23</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1262.71</Time>
+			<PrimaryObject ID="2753">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>23</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1264.24</Time>
+			<PrimaryObject ID="2754">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>23</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1276.88</Time>
+			<PrimaryObject ID="15">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>13</Occurrences>
+			<SecondaryObject ID="3588">
+				<Type>Shell</Type>
+				<Name>weapons.shells.NR23_23x115_HEI_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>15</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1277.18</Time>
+			<PrimaryObject ID="39">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>9</Occurrences>
+			<SecondaryObject ID="3586">
+				<Type>Shell</Type>
+				<Name>weapons.shells.N37_37x155_HEI_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>15</Parent>
+			</SecondaryObject>
+			<ParentObject ID="15">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1277.18</Time>
+			<PrimaryObject ID="39">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="15">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1291.40</Time>
+			<PrimaryObject ID="3605">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>1325.96</Time>
+			<PrimaryObject ID="3605">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>1364.42</Time>
+			<PrimaryObject ID="5">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #001</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="3608">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>5</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1367.44</Time>
+			<PrimaryObject ID="5">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #001</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="3609">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>5</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1370.46</Time>
+			<PrimaryObject ID="5">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #001</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="3610">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>5</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1373.48</Time>
+			<PrimaryObject ID="5">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #001</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="3611">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>5</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1376.50</Time>
+			<PrimaryObject ID="5">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #001</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="3612">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>5</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1379.52</Time>
+			<PrimaryObject ID="5">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #001</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="3613">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>5</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1419.09</Time>
+			<PrimaryObject ID="2876">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>108</Occurrences>
+			<SecondaryObject ID="3619">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>2876</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1436.52</Time>
+			<PrimaryObject ID="2876">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>110</Occurrences>
+			<SecondaryObject ID="3727">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>2876</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1442.74</Time>
+			<PrimaryObject ID="2876">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>120</Occurrences>
+			<SecondaryObject ID="3877">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>2876</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1443.29</Time>
+			<PrimaryObject ID="5">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #001</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>5</Occurrences>
+			<SecondaryObject ID="3876">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>2876</Parent>
+			</SecondaryObject>
+			<ParentObject ID="2876">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1463.60</Time>
+			<PrimaryObject ID="2876">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>146</Occurrences>
+			<SecondaryObject ID="4001">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>2876</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1464.22</Time>
+			<PrimaryObject ID="5">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #001</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>17</Occurrences>
+			<SecondaryObject ID="4000">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M20_50_aero_APIT</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>2876</Parent>
+			</SecondaryObject>
+			<ParentObject ID="2876">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1470.86</Time>
+			<PrimaryObject ID="2876">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>96</Occurrences>
+			<SecondaryObject ID="4103">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M20_50_aero_APIT</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>2876</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1471.05</Time>
+			<PrimaryObject ID="5">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #001</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>48</Occurrences>
+			<SecondaryObject ID="4101">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M20_50_aero_APIT</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>2876</Parent>
+			</SecondaryObject>
+			<ParentObject ID="2876">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1471.11</Time>
+			<PrimaryObject ID="5">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #001</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="2876">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1472.12</Time>
+			<PrimaryObject ID="5">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #001</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="4194">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>ru</Country>
+				<Parent>5</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1473.12</Time>
+			<PrimaryObject ID="2876">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="4195">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>ru</Country>
+				<Parent>2876</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1473.35</Time>
+			<PrimaryObject ID="3608">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>5</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1473.86</Time>
+			<PrimaryObject ID="3609">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>5</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1474.12</Time>
+			<PrimaryObject ID="2876">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="4196">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>ru</Country>
+				<Parent>2876</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1474.51</Time>
+			<PrimaryObject ID="3611">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>5</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1474.74</Time>
+			<PrimaryObject ID="3610">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>5</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1475.74</Time>
+			<PrimaryObject ID="3612">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>5</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1476.30</Time>
+			<PrimaryObject ID="3613">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>5</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1569.51</Time>
+			<PrimaryObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasLanded</Action>
+		</Event>
+		<Event>
+			<Time>1631.88</Time>
+			<PrimaryObject ID="15">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>27</Occurrences>
+			<SecondaryObject ID="4199">
+				<Type>Shell</Type>
+				<Name>weapons.shells.NR23_23x115_HEI_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>15</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1677.48</Time>
+			<PrimaryObject ID="16">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>45</Occurrences>
+			<SecondaryObject ID="4227">
+				<Type>Shell</Type>
+				<Name>weapons.shells.NR23_23x115_HEI_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>16</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1678.56</Time>
+			<PrimaryObject ID="2876">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>10</Occurrences>
+			<SecondaryObject ID="4227">
+				<Type>Shell</Type>
+				<Name>weapons.shells.NR23_23x115_HEI_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>16</Parent>
+			</SecondaryObject>
+			<ParentObject ID="16">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1680.15</Time>
+			<PrimaryObject ID="2876">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="16">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1695.01</Time>
+			<PrimaryObject ID="2877">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="4274">
+				<Type>Missile</Type>
+				<Name>GAR-8</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>2877</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1698.54</Time>
+			<PrimaryObject ID="25">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="4274">
+				<Type>Missile</Type>
+				<Name>GAR-8</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>2877</Parent>
+			</SecondaryObject>
+			<ParentObject ID="2877">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1698.54</Time>
+			<PrimaryObject ID="25">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="2877">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1699.54</Time>
+			<PrimaryObject ID="25">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="4298">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>ru</Country>
+				<Parent>25</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1700.54</Time>
+			<PrimaryObject ID="4299">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>ru</Country>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>1701.54</Time>
+			<PrimaryObject ID="4300">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>ru</Country>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>1708.00</Time>
+			<PrimaryObject ID="16">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1713.58</Time>
+			<PrimaryObject ID="15">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>42</Occurrences>
+			<SecondaryObject ID="4332">
+				<Type>Shell</Type>
+				<Name>weapons.shells.NR23_23x115_HEI_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>15</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1716.32</Time>
+			<PrimaryObject ID="3605">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>4</Occurrences>
+			<SecondaryObject ID="4331">
+				<Type>Shell</Type>
+				<Name>weapons.shells.N37_37x155_HEI_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>15</Parent>
+			</SecondaryObject>
+			<ParentObject ID="15">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>1716.35</Time>
+			<PrimaryObject ID="3605">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="15">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1725.05</Time>
+			<PrimaryObject ID="4352">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>1860.52</Time>
+			<PrimaryObject ID="4352">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>1967.66</Time>
+			<PrimaryObject ID="27">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #010</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="4353">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>27</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1969.66</Time>
+			<PrimaryObject ID="7">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #005</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="4354">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>7</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1970.68</Time>
+			<PrimaryObject ID="27">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #010</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="4355">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>27</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1972.68</Time>
+			<PrimaryObject ID="7">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #005</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="4356">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>7</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1973.69</Time>
+			<PrimaryObject ID="27">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #010</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="4357">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>27</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1975.70</Time>
+			<PrimaryObject ID="7">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #005</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="4358">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>7</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1976.72</Time>
+			<PrimaryObject ID="27">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #010</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="4359">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>27</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1978.72</Time>
+			<PrimaryObject ID="7">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #005</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="4360">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>7</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1979.74</Time>
+			<PrimaryObject ID="27">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #010</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="4361">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>27</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1981.74</Time>
+			<PrimaryObject ID="7">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #005</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="4362">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>7</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1982.76</Time>
+			<PrimaryObject ID="27">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #010</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="4363">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>27</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1984.76</Time>
+			<PrimaryObject ID="7">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #005</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="4364">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>7</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1987.48</Time>
+			<PrimaryObject ID="28">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #010</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>56</Occurrences>
+			<SecondaryObject ID="4370">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>28</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1993.94</Time>
+			<PrimaryObject ID="28">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #010</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>219</Occurrences>
+			<SecondaryObject ID="4426">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>28</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1996.87</Time>
+			<PrimaryObject ID="28">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #010</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>1997.88</Time>
+			<PrimaryObject ID="28">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #010</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="4738">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>ru</Country>
+				<Parent>28</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>1998.88</Time>
+			<PrimaryObject ID="4739">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>ru</Country>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>1999.87</Time>
+			<PrimaryObject ID="4740">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>ru</Country>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>2008.94</Time>
+			<PrimaryObject ID="4741">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>2012.28</Time>
+			<PrimaryObject ID="24">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #009</Group>
+			</PrimaryObject>
+			<Action>HasLanded</Action>
+		</Event>
+		<Event>
+			<Time>2022.53</Time>
+			<PrimaryObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>2041.89</Time>
+			<PrimaryObject ID="4741">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>2053.40</Time>
+			<PrimaryObject ID="2877">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>30</Occurrences>
+			<SecondaryObject ID="4751">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>2877</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2059.64</Time>
+			<PrimaryObject ID="18">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #004</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>8</Occurrences>
+			<SecondaryObject ID="4778">
+				<Type>Shell</Type>
+				<Name>weapons.shells.NR23_23x115_HEI_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>18</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2068.15</Time>
+			<PrimaryObject ID="2877">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="4784">
+				<Type>Missile</Type>
+				<Name>GAR-8</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>2877</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2069.72</Time>
+			<PrimaryObject ID="18">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #004</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>17</Occurrences>
+			<SecondaryObject ID="4789">
+				<Type>Shell</Type>
+				<Name>weapons.shells.NR23_23x115_HEI_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>18</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2070.09</Time>
+			<PrimaryObject ID="4352">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>11</Occurrences>
+			<SecondaryObject ID="4787">
+				<Type>Shell</Type>
+				<Name>weapons.shells.N37_37x155_HEI_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>18</Parent>
+			</SecondaryObject>
+			<ParentObject ID="18">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #004</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2070.31</Time>
+			<PrimaryObject ID="4352">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="18">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #004</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2071.72</Time>
+			<PrimaryObject ID="2877">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>150</Occurrences>
+			<SecondaryObject ID="4808">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>2877</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2071.93</Time>
+			<PrimaryObject ID="30">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #010</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>16</Occurrences>
+			<SecondaryObject ID="4808">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>2877</Parent>
+			</SecondaryObject>
+			<ParentObject ID="2877">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2093.16</Time>
+			<PrimaryObject ID="4784">
+				<Type>Missile</Type>
+				<Name>GAR-8</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>2877</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2102.67</Time>
+			<PrimaryObject ID="4957">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>2112.70</Time>
+			<PrimaryObject ID="2877">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>140</Occurrences>
+			<SecondaryObject ID="4960">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>2877</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2113.15</Time>
+			<PrimaryObject ID="27">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #010</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>5</Occurrences>
+			<SecondaryObject ID="4958">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>2877</Parent>
+			</SecondaryObject>
+			<ParentObject ID="2877">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2117.00</Time>
+			<PrimaryObject ID="2877">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2133.70</Time>
+			<PrimaryObject ID="4353">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>27</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2134.63</Time>
+			<PrimaryObject ID="4355">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>27</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2135.34</Time>
+			<PrimaryObject ID="4357">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>27</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2135.87</Time>
+			<PrimaryObject ID="4359">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>27</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2136.50</Time>
+			<PrimaryObject ID="4361">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>27</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2137.26</Time>
+			<PrimaryObject ID="4363">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>27</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2147.14</Time>
+			<PrimaryObject ID="4354">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>7</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2147.68</Time>
+			<PrimaryObject ID="4356">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>7</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2148.74</Time>
+			<PrimaryObject ID="4358">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>7</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2149.46</Time>
+			<PrimaryObject ID="4360">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>7</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2149.90</Time>
+			<PrimaryObject ID="4362">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>7</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2150.98</Time>
+			<PrimaryObject ID="4364">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>7</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2208.39</Time>
+			<PrimaryObject ID="4957">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>2267.01</Time>
+			<PrimaryObject ID="5114">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>2334.90</Time>
+			<PrimaryObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>298</Occurrences>
+			<SecondaryObject ID="5119">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2335.81</Time>
+			<PrimaryObject ID="10">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #005</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>5</Occurrences>
+			<SecondaryObject ID="5119">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+			<ParentObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2338.11</Time>
+			<PrimaryObject ID="10">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #005</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>5</Occurrences>
+			<SecondaryObject ID="5177">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+			<ParentObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2340.95</Time>
+			<PrimaryObject ID="10">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #005</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>6</Occurrences>
+			<SecondaryObject ID="5342">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+			<ParentObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2340.96</Time>
+			<PrimaryObject ID="10">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #005</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2341.95</Time>
+			<PrimaryObject ID="10">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #005</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="5413">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>ru</Country>
+				<Parent>10</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2342.96</Time>
+			<PrimaryObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="5414">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>ru</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2343.95</Time>
+			<PrimaryObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="5415">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>ru</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2403.06</Time>
+			<PrimaryObject ID="4741">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>36</Occurrences>
+			<SecondaryObject ID="5429">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>4741</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2448.28</Time>
+			<PrimaryObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="5462">
+				<Type>Missile</Type>
+				<Name>GAR-8</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2473.32</Time>
+			<PrimaryObject ID="5462">
+				<Type>Missile</Type>
+				<Name>GAR-8</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2476.21</Time>
+			<PrimaryObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="5467">
+				<Type>Missile</Type>
+				<Name>GAR-8</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2486.24</Time>
+			<PrimaryObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>404</Occurrences>
+			<SecondaryObject ID="5499">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2486.90</Time>
+			<PrimaryObject ID="32">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #011</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>32</Occurrences>
+			<SecondaryObject ID="5495">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M20_50_aero_APIT</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+			<ParentObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2489.37</Time>
+			<PrimaryObject ID="32">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #011</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>83</Occurrences>
+			<SecondaryObject ID="5724">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M20_50_aero_APIT</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+			<ParentObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2501.24</Time>
+			<PrimaryObject ID="5467">
+				<Type>Missile</Type>
+				<Name>GAR-8</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2502.58</Time>
+			<PrimaryObject ID="20">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #007</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>3</Occurrences>
+			<SecondaryObject ID="5876">
+				<Type>Shell</Type>
+				<Name>weapons.shells.NR23_23x115_HEI_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>20</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2514.56</Time>
+			<PrimaryObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>190</Occurrences>
+			<SecondaryObject ID="5990">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2518.39</Time>
+			<PrimaryObject ID="32">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #011</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="5990">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+			<ParentObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2519.58</Time>
+			<PrimaryObject ID="32">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #011</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="6064">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+			<ParentObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2524.04</Time>
+			<PrimaryObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>62</Occurrences>
+			<SecondaryObject ID="6072">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2554.40</Time>
+			<PrimaryObject ID="20">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #007</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>72</Occurrences>
+			<SecondaryObject ID="6145">
+				<Type>Shell</Type>
+				<Name>weapons.shells.NR23_23x115_API</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>20</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2555.30</Time>
+			<PrimaryObject ID="4741">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="6145">
+				<Type>Shell</Type>
+				<Name>weapons.shells.NR23_23x115_API</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>20</Parent>
+			</SecondaryObject>
+			<ParentObject ID="20">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #007</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2556.54</Time>
+			<PrimaryObject ID="4741">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>11</Occurrences>
+			<SecondaryObject ID="6181">
+				<Type>Shell</Type>
+				<Name>weapons.shells.NR23_23x115_HEI_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>20</Parent>
+			</SecondaryObject>
+			<ParentObject ID="20">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #007</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2556.86</Time>
+			<PrimaryObject ID="4741">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Seweryn</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="20">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #007</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2558.58</Time>
+			<PrimaryObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>110</Occurrences>
+			<SecondaryObject ID="6247">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2561.46</Time>
+			<PrimaryObject ID="34">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #011</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>33</Occurrences>
+			<SecondaryObject ID="6245">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+			<ParentObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2566.30</Time>
+			<PrimaryObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>138</Occurrences>
+			<SecondaryObject ID="6316">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2567.42</Time>
+			<PrimaryObject ID="34">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #011</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>7</Occurrences>
+			<SecondaryObject ID="6314">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M20_50_aero_APIT</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+			<ParentObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2570.26</Time>
+			<PrimaryObject ID="34">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #011</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>34</Occurrences>
+			<SecondaryObject ID="6398">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+			<ParentObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2572.20</Time>
+			<PrimaryObject ID="11">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #006</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="6449">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>11</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2574.22</Time>
+			<PrimaryObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>256</Occurrences>
+			<SecondaryObject ID="6492">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2575.22</Time>
+			<PrimaryObject ID="11">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #006</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="6498">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>11</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2575.33</Time>
+			<PrimaryObject ID="34">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #011</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="6492">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+			<ParentObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2576.92</Time>
+			<PrimaryObject ID="31">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #011</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="6523">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>31</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2578.08</Time>
+			<PrimaryObject ID="34">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #011</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>45</Occurrences>
+			<SecondaryObject ID="6553">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+			<ParentObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2578.24</Time>
+			<PrimaryObject ID="11">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #006</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="6582">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>11</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2579.94</Time>
+			<PrimaryObject ID="31">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #011</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="6685">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>31</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2580.10</Time>
+			<PrimaryObject ID="34">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #011</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2581.09</Time>
+			<PrimaryObject ID="34">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #011</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="6710">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>ru</Country>
+				<Parent>34</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2581.26</Time>
+			<PrimaryObject ID="11">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #006</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="6711">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>11</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2582.10</Time>
+			<PrimaryObject ID="6712">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>ru</Country>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>2582.96</Time>
+			<PrimaryObject ID="31">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #011</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="6713">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>31</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2583.10</Time>
+			<PrimaryObject ID="6714">
+				<Type>Parachutist</Type>
+				<Name>Pilot</Name>
+				<Country>ru</Country>
+			</PrimaryObject>
+			<Action>HasEnteredTheArea</Action>
+		</Event>
+		<Event>
+			<Time>2584.27</Time>
+			<PrimaryObject ID="11">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #006</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="6715">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>11</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2585.98</Time>
+			<PrimaryObject ID="31">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #011</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="6716">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>31</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2587.30</Time>
+			<PrimaryObject ID="11">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #006</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="6717">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>11</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2589.00</Time>
+			<PrimaryObject ID="31">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #011</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="6718">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>31</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2592.02</Time>
+			<PrimaryObject ID="31">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #011</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<SecondaryObject ID="6719">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>31</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2699.58</Time>
+			<PrimaryObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>134</Occurrences>
+			<SecondaryObject ID="6839">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2704.69</Time>
+			<PrimaryObject ID="14">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #006</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>9</Occurrences>
+			<SecondaryObject ID="6836">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M20_50_aero_APIT</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>36</Parent>
+			</SecondaryObject>
+			<ParentObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>2724.14</Time>
+			<PrimaryObject ID="6523">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>31</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2724.88</Time>
+			<PrimaryObject ID="6685">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>31</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2725.66</Time>
+			<PrimaryObject ID="6713">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>31</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2726.25</Time>
+			<PrimaryObject ID="6449">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>11</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2726.25</Time>
+			<PrimaryObject ID="6716">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>31</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2726.88</Time>
+			<PrimaryObject ID="6498">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>11</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2727.08</Time>
+			<PrimaryObject ID="6582">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>11</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2727.08</Time>
+			<PrimaryObject ID="6718">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>31</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2727.62</Time>
+			<PrimaryObject ID="6711">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>11</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2727.90</Time>
+			<PrimaryObject ID="6715">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>11</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2727.90</Time>
+			<PrimaryObject ID="6719">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>31</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2728.61</Time>
+			<PrimaryObject ID="6717">
+				<Type>Missile</Type>
+				<Name>KH-65</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>11</Parent>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+		</Event>
+		<Event>
+			<Time>2782.16</Time>
+			<PrimaryObject ID="30">
+				<Type>Aircraft</Type>
+				<Name>Tu-95MS Bear</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #010</Group>
+			</PrimaryObject>
+			<Action>HasLanded</Action>
+		</Event>
+		<Event>
+			<Time>2854.00</Time>
+			<PrimaryObject ID="4957">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>56</Occurrences>
+			<SecondaryObject ID="6859">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>4957</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2857.21</Time>
+			<PrimaryObject ID="5114">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasTakenOff</Action>
+		</Event>
+		<Event>
+			<Time>2895.00</Time>
+			<PrimaryObject ID="21">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #007</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>8</Occurrences>
+			<SecondaryObject ID="6912">
+				<Type>Shell</Type>
+				<Name>weapons.shells.NR23_23x115_HEI_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>21</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2987.70</Time>
+			<PrimaryObject ID="20">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #007</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>212</Occurrences>
+			<SecondaryObject ID="6923">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>20</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>2988.99</Time>
+			<PrimaryObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasLanded</Action>
+		</Event>
+		<Event>
+			<Time>2997.87</Time>
+			<PrimaryObject ID="20">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #007</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>48</Occurrences>
+			<SecondaryObject ID="7135">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>20</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3007.31</Time>
+			<PrimaryObject ID="19">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #007</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>139</Occurrences>
+			<SecondaryObject ID="7186">
+				<Type>Shell</Type>
+				<Name>weapons.shells.N37_37x155_HEI_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>19</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3008.05</Time>
+			<PrimaryObject ID="5114">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="7186">
+				<Type>Shell</Type>
+				<Name>weapons.shells.N37_37x155_HEI_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>19</Parent>
+			</SecondaryObject>
+			<ParentObject ID="19">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #007</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>3008.28</Time>
+			<PrimaryObject ID="21">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #007</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>66</Occurrences>
+			<SecondaryObject ID="7222">
+				<Type>Shell</Type>
+				<Name>weapons.shells.NR23_23x115_HEI_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>21</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3009.80</Time>
+			<PrimaryObject ID="4957">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<SecondaryObject ID="7222">
+				<Type>Shell</Type>
+				<Name>weapons.shells.NR23_23x115_HEI_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>21</Parent>
+			</SecondaryObject>
+			<ParentObject ID="21">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #007</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>3010.42</Time>
+			<PrimaryObject ID="5114">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>6</Occurrences>
+			<SecondaryObject ID="7239">
+				<Type>Shell</Type>
+				<Name>weapons.shells.NR23_23x115_HEI_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>19</Parent>
+			</SecondaryObject>
+			<ParentObject ID="19">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #007</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>3011.15</Time>
+			<PrimaryObject ID="4957">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>2</Occurrences>
+			<SecondaryObject ID="7278">
+				<Type>Shell</Type>
+				<Name>weapons.shells.NR23_23x115_HEI_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>21</Parent>
+			</SecondaryObject>
+			<ParentObject ID="21">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #007</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>3011.57</Time>
+			<PrimaryObject ID="4957">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>wantussik</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 2</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="21">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #007</Group>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3012.06</Time>
+			<PrimaryObject ID="20">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #007</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>54</Occurrences>
+			<SecondaryObject ID="7335">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>20</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3013.23</Time>
+			<PrimaryObject ID="5114">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>13</Occurrences>
+			<SecondaryObject ID="7411">
+				<Type>Shell</Type>
+				<Name>weapons.shells.NR23_23x115_HEI_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>19</Parent>
+			</SecondaryObject>
+			<ParentObject ID="19">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #007</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>3022.56</Time>
+			<PrimaryObject ID="20">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #007</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>86</Occurrences>
+			<SecondaryObject ID="7451">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>20</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3029.12</Time>
+			<PrimaryObject ID="20">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #007</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>62</Occurrences>
+			<SecondaryObject ID="7543">
+				<Type>Shell</Type>
+				<Name>weapons.shells.M2_50_aero_AP</Name>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Parent>20</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3051.90</Time>
+			<PrimaryObject ID="20">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #007</Group>
+			</PrimaryObject>
+			<Action>HasFired</Action>
+			<Occurrences>87</Occurrences>
+			<SecondaryObject ID="7605">
+				<Type>Shell</Type>
+				<Name>weapons.shells.NR23_23x115_HEI_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>20</Parent>
+			</SecondaryObject>
+		</Event>
+		<Event>
+			<Time>3053.12</Time>
+			<PrimaryObject ID="36">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>Krystol</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasBeenHitBy</Action>
+			<Occurrences>79</Occurrences>
+			<SecondaryObject ID="7603">
+				<Type>Shell</Type>
+				<Name>weapons.shells.N37_37x155_API_T</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Parent>20</Parent>
+			</SecondaryObject>
+			<ParentObject ID="20">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #007</Group>
+			</ParentObject>
+		</Event>
+		<Event>
+			<Time>3059.62</Time>
+			<PrimaryObject ID="5114">
+				<Type>Aircraft</Type>
+				<Name>F-86F Sabre</Name>
+				<Pilot>nielu</Pilot>
+				<Coalition>Enemies</Coalition>
+				<Country>us</Country>
+				<Group>Sabre 1</Group>
+			</PrimaryObject>
+			<Action>HasBeenDestroyed</Action>
+			<SecondaryObject ID="19">
+				<Type>Aircraft</Type>
+				<Name>MiG-15bis Fagot</Name>
+				<Coalition>Allies</Coalition>
+				<Country>ru</Country>
+				<Group>New Airplane Group #007</Group>
+			</SecondaryObject>
+		</Event>
+	</Events>
+</TacviewDebriefing>
